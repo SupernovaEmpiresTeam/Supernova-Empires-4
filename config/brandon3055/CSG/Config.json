@@ -1,0 +1,9 @@
+{
+  "inventory": {
+    "0:1": "{ForgeCaps:{\"dungeons_libraries:built_in_enchantments\":{BuiltInEnchantments:[]}},id:\"kubejs:ten_dollar\",Count:2b}",
+    "0:2": "{ForgeCaps:{\"dungeons_libraries:built_in_enchantments\":{BuiltInEnchantments:[]}},id:\"kubejs:five_dollar\",Count:1b}",
+    "0:3": "{ForgeCaps:{\"dungeons_libraries:built_in_enchantments\":{BuiltInEnchantments:[]}},id:\"prefab:item_moderate_house\",Count:1b}",
+    "0:0": "{ForgeCaps:{\"dungeons_libraries:built_in_enchantments\":{BuiltInEnchantments:[]}},id:\"silentgear:blueprint_package\",Count:1b,tag:{silentlib.LootContainer:{LootTable:\"silentgear:starter_blueprints\"}}}"
+  },
+  "wipeBlacklist": []
+}

@@ -1,0 +1,10 @@
+{
+    "name": "singularity.extendedcrafting.blueiron",
+    "colors": [
+      "007acc",
+      "004c7f"
+    ],
+    "ingredient": {
+      "item": "contenttweaker:blue_iron"
+    }
+  }

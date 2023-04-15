@@ -1,0 +1,10 @@
+{
+    "name": "singularity.extendedcrafting.featherite",
+    "colors": [
+      "ffffff",
+      "ffffff"
+    ],
+    "ingredient": {
+      "item": "upgradednetherite:feather_upgraded_netherite_ingot"
+    }
+  }

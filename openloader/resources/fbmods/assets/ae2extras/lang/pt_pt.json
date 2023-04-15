@@ -1,0 +1,27 @@
+{
+  "block.ae2extras.256k_crafting_storage": "Armazenamento de Craf de 256k",
+  "block.ae2extras.1m_crafting_storage": "Armazenamento de Craf de 1m",
+  "block.ae2extras.4m_crafting_storage": "Armazenamento de Craf de 4m",
+  "block.ae2extras.16m_crafting_storage": "Armazenamento de Craf de 16m",
+  "itemGroup.ae2extras" : "AE2 Extras",
+
+  "item.ae2extras.1m_cell_component": "Componente de Armazenamento de 1m ME",
+  "item.ae2extras.4m_cell_component": "Componente de Armazenamento de 4m ME",
+  "item.ae2extras.16m_cell_component": "Componente de Armazenamento de 16m ME",
+  "item.ae2extras.256k_cell_component": "Componente de Armazenamento de 256k ME",
+
+  "item.ae2extras.1m_storage_cell": "Célula de Armazenamento de 1m ME",
+  "item.ae2extras.4m_storage_cell": "Célula de Armazenamento de 4m ME",
+  "item.ae2extras.16m_storage_cell": "Célula de Armazenamento de 16m ME",
+  "item.ae2extras.256k_storage_cell": "Célula de Armazenamento de 256k ME",
+
+  "item.ae2extras.1m_fluid_cell_component": "Componente de Armazenamento de Fluidos de 1m ME ",
+  "item.ae2extras.4m_fluid_cell_component": "Componente de Armazenamento de Fluidos de 4m ME",
+  "item.ae2extras.16m_fluid_cell_component": "Componente de Armazenamento de Fluidos de 16m ME",
+  "item.ae2extras.256k_fluid_cell_component": "Componente de Armazenamento de Fluidos de 256k ME",
+
+  "item.ae2extras.1m_fluid_storage_cell": "Célula de Armazenamento de Fluidos de 1m ME",
+  "item.ae2extras.4m_fluid_storage_cell": "Célula de Armazenamento de Fluidos de 4m ME",
+  "item.ae2extras.16m_fluid_storage_cell": "Célula de Armazenamento de Fluidos de 16m ME",
+  "item.ae2extras.256k_fluid_storage_cell": "Célula de Armazenamento de Fluidos de 256k ME"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "singularity.extendedcrafting.greenstone",
+    "colors": [
+      "00742b",
+      "00fc66"
+    ],
+    "ingredient": {
+      "item": "contenttweaker:greenstone"
+    }
+  }

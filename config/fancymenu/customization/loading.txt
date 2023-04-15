@@ -1,0 +1,60 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.WorldLoadProgressScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = config/fancymenu/backgrounds/loading.jpg
+  action = texturizebackground
+}
+
+customization {
+  baseheight = 1002
+  action = autoscale
+  basewidth = 1920
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  path = config/fancymenu/logo/bh.png
+  orientation = top-right
+  x = -99
+  width = 97
+  action = addtexture
+  actionid = 75b50e57-a5cb-48a9-894d-fec2957f817f1637353915483
+  y = 2
+  height = 31
+}
+
+customization {
+  path = config/fancymenu/logo.png
+  orientation = top-centered
+  x = -144
+  width = 289
+  action = addtexture
+  actionid = 48a1d160-d992-4a54-96ee-671efa52a0f61637353935994
+  y = 7
+  height = 47
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  x = 0
+  action = addtext
+  actionid = 491ac072-d2f7-42e7-8ae1-1f93535f09e01639164461006
+  y = -47
+  scale = 1.0
+  alignment = centered
+  value = Supernova Empires 4 is Loading
+}
+

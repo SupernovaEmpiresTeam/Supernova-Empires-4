@@ -1,0 +1,30 @@
+{
+	id: "74B2FA4C42FEB225"
+	order_index: 5
+	title: "Boss Loot Tables"
+	loot_size: 1
+	rewards: [
+		{ item: "scalinghealth:heart_crystal", weight: 9 }
+		{ item: "scalinghealth:power_crystal", weight: 9 }
+		{ item: "scalinghealth:enchanted_heart", weight: 5 }
+		{ item: "scalinghealth:chance_heart", weight: 5 }
+		{ item: "mysticalagriculture:supremium_essence" }
+		{ item: "minecraft:nether_star" }
+		{
+			item: {
+				id: "gocurrency:currency"
+				Count: 1b
+				tag: {
+					currency: 4b
+				}
+			}
+			weight: 7
+		}
+		{ title: "A lot of XP", item: "minecraft:experience_bottle", count: 64 }
+		{ item: "contenttweaker:universal_upgrade", weight: 7 }
+		{ item: "minecraft:spawner" }
+		{ item: "extendedcrafting:ultimate_singularity" }
+		{ item: "mekanism:creative_fluid_tank" }
+		{ item: "mekanism:creative_bin" }
+	]
+}

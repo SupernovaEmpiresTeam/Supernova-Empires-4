@@ -1,0 +1,10 @@
+{
+    "name": "singularity.extendedcrafting.prismarite",
+    "colors": [
+      "00e4fc",
+      "00e4fc"
+    ],
+    "ingredient": {
+      "item": "upgradednetherite:water_upgraded_netherite_ingot"
+    }
+  }

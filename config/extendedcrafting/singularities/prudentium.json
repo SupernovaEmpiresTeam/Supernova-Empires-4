@@ -1,0 +1,10 @@
+{
+    "name": "singularity.extendedcrafting.prudentium",
+    "colors": [
+      "1E8F13",
+      "1E8F13"
+    ],
+    "ingredient": {
+      "item": "mysticalagriculture:prudentium_essence"
+    }
+  }

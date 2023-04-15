@@ -1,0 +1,10 @@
+{
+    "name": "singularity.extendedcrafting.golderite",
+    "colors": [
+      "ead000",
+      "ead000"
+    ],
+    "ingredient": {
+      "item": "upgradednetherite:gold_upgraded_netherite_ingot"
+    }
+  }

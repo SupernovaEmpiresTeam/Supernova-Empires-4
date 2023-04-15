@@ -1,0 +1,34 @@
+{
+    "oreConfig": [
+      {
+        "ore": "contenttweaker:bluestone_ore",
+        "filler": "minecraft:stone",
+        "minY": 1,
+        "maxY": 60,
+        "maxVeinSize": 7,
+        "spawnRate": 13.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": []
+      },
+      {
+        "ore": "contenttweaker:light_bluestone_ore",
+        "filler": "minecraft:stone",
+        "minY": 1,
+        "maxY": 60,
+        "maxVeinSize": 7,
+        "spawnRate": 13.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": []
+      },
+      {
+        "ore": "contenttweaker:greenstone_ore",
+        "filler": "minecraft:stone",
+        "minY": 1,
+        "maxY": 60,
+        "maxVeinSize": 7,
+        "spawnRate": 13.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": []
+      }
+    ]
+}

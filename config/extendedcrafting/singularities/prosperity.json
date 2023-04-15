@@ -1,0 +1,10 @@
+{
+    "name": "singularity.extendedcrafting.prosperity",
+    "colors": [
+      "ffffff",
+      "ffffff"
+    ],
+    "ingredient": {
+      "item": "mysticalagriculture:prosperity_ingot"
+    }
+  }

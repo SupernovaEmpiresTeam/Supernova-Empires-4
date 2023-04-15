@@ -1,0 +1,34 @@
+{
+  "oreConfig": [
+    {
+      "ore": "minecraft:redstone_ore",
+      "filler": "minecraft:stone",
+      "minY": 1,
+      "maxY": 16,
+      "maxVeinSize": 13,
+      "spawnRate": 8.0,
+      "biomeBlacklist": [],
+      "biomeWhitelist": []
+    },
+    {
+      "ore": "contenttweaker:nether_redstone_ore",
+      "filler": "minecraft:netherrack",
+      "minY": 1,
+      "maxY": 128,
+      "maxVeinSize": 13,
+      "spawnRate": 9.0,
+      "biomeBlacklist": [],
+      "biomeWhitelist": []
+    },
+    {
+      "ore": "contenttweaker:end_redstone_ore",
+      "filler": "minecraft:end_stone",
+      "minY": 1,
+      "maxY": 64,
+      "maxVeinSize": 3,
+      "spawnRate": 2.0,
+      "biomeBlacklist": [],
+      "biomeWhitelist": []
+    }
+  ]
+}

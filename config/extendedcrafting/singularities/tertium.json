@@ -1,0 +1,10 @@
+{
+    "name": "singularity.extendedcrafting.tertium",
+    "colors": [
+      "F3A110",
+      "F3A110"
+    ],
+    "ingredient": {
+      "item": "mysticalagriculture:tertium_essence"
+    }
+  }

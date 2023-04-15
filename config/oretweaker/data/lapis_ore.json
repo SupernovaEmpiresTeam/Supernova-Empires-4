@@ -1,0 +1,34 @@
+{
+  "oreConfig": [
+    {
+      "ore": "minecraft:lapis_ore",
+      "filler": "minecraft:stone",
+      "minY": 1,
+      "maxY": 30,
+      "maxVeinSize": 6,
+      "spawnRate": 10.0,
+      "biomeBlacklist": [],
+      "biomeWhitelist": []
+    },
+    {
+      "ore": "contenttweaker:nether_lapis_ore",
+      "filler": "minecraft:netherrack",
+      "minY": 1,
+      "maxY": 120,
+      "maxVeinSize": 8,
+      "spawnRate": 13.0,
+      "biomeBlacklist": [],
+      "biomeWhitelist": []
+    },
+    {
+      "ore": "contenttweaker:end_lapis_ore",
+      "filler": "minecraft:end_stone",
+      "minY": 1,
+      "maxY": 64,
+      "maxVeinSize": 3,
+      "spawnRate": 2.0,
+      "biomeBlacklist": [],
+      "biomeWhitelist": []
+    }
+  ]
+}

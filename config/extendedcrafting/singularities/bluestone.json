@@ -1,0 +1,10 @@
+{
+    "name": "singularity.extendedcrafting.bluestone",
+    "colors": [
+      "0000FF",
+      "0000FF"
+    ],
+    "ingredient": {
+      "item": "contenttweaker:bluestone"
+    }
+  }

@@ -1,0 +1,14 @@
+{
+	id: "4DC8A159AF4BE63B"
+	order_index: 2
+	title: "dust"
+	icon: "minecraft:redstone"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraft:redstone" }
+		{ item: "wlrs:waterlogged_redstone_wire" }
+		{ item: "minecraft:glowstone_dust" }
+		{ item: "contenttweaker:bluestone" }
+		{ item: "minecraft:gunpowder" }
+	]
+}

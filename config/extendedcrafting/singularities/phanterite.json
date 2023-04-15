@@ -1,0 +1,10 @@
+{
+    "name": "singularity.extendedcrafting.phanterite",
+    "colors": [
+      "e1e1e1",
+      "e1e1e1"
+    ],
+    "ingredient": {
+      "item": "upgradednetherite:phantom_upgraded_netherite_ingot"
+    }
+  }

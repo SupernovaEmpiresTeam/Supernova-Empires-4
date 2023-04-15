@@ -1,0 +1,10 @@
+{
+    "name": "singularity.extendedcrafting.gunpowder",
+    "colors": [
+      "888888",
+      "888888"
+    ],
+    "ingredient": {
+      "item": "minecraft:gunpowder"
+    }
+  }

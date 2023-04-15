@@ -1,0 +1,10 @@
+{
+    "name": "singularity.extendedcrafting.spiderite",
+    "colors": [
+      "0efc00",
+      "0efc00"
+    ],
+    "ingredient": {
+      "item": "upgradednetherite:poison_upgraded_netherite_ingot"
+    }
+  }

@@ -1,0 +1,24 @@
+{
+	id: "642AA6D2C9BD9C5C"
+	order_index: 0
+	title: "upgrade_stats"
+	icon: "scalinghealth:heart_crystal"
+	loot_size: 1
+	rewards: [
+		{ item: "scalinghealth:heart_crystal" }
+		{ item: "scalinghealth:power_crystal" }
+		{
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						lvl: 8s
+						id: "minecraft:protection"
+					}]
+				}
+			}
+			weight: 100
+		}
+	]
+}

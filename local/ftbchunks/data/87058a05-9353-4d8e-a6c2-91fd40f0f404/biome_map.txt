@@ -1,0 +1,10 @@
+#556 minecraft:beach
+#35F cavebiomeapi:caves
+#34D minecraft:deep_lukewarm_ocean
+#010 minecraft:forest
+#79A minecraft:lukewarm_ocean
+#379 minecraft:mountains
+#5FF minecraft:river
+#7F0 minecraft:taiga_mountains
+#452 minecraft:wooded_hills
+#306 minecraft:wooded_mountains

@@ -1,0 +1,35 @@
+
+[authorizations]
+	#Twitch O Auth token. Used for many features of the twitch API.
+	oAuthToken = ""
+	#Twitch Client ID.
+	clientId = ""
+	#Chat Server.
+	chatServer = ""
+	#Twitch Client Secret.
+	clientSecret = ""
+	#List of bot owner ids to be used with the twitch client.
+	botOwnerIds = []
+	#Twitch O Auth token for the chat user. Will default to normal OAuth if none provided.
+	chatAccountOAuthToken = ""
+
+[twitchFeatures]
+	#Enable/Disable tmi API
+	tmi = false
+	#Enable/Disable extensions API
+	extensions = false
+	#Enable/Disable Twitch chat API
+	twitchChat = false
+	#Enable/Disable Twitch Kraken API. (Deprecated)
+	twitchKraken = false
+	#Enable/Disable Twitch PubSub API
+	twitchPubSub = false
+	#Enable/Disable graphQL API
+	graphQL = false
+	#Enable/Disable Twitch Helix API
+	twitchHelix = false
+
+[libraryFeatures]
+	#Enable/Disable Auto-Generated Forge Event Handlers
+	forgeEvents = true
+

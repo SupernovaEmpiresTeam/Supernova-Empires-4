@@ -1,0 +1,10 @@
+{
+    "name": "singularity.extendedcrafting.uraninite",
+    "colors": [
+      "2bf303",
+      "2bf303"
+    ],
+    "ingredient": {
+      "item": "powah:uraninite"
+    }
+  }

@@ -1,0 +1,125 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.ShareToLanScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=345100%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=505100%
+  orientation = mid-centered
+  x = -177
+  action = movebutton
+  y = -52
+}
+
+customization {
+  identifier = %id=505100%
+  width = 111
+  action = resizebutton
+  height = 105
+}
+
+customization {
+  identifier = %id=505100%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/button_imgs/cheetos-hover.png
+  backgroundnormal = config/fancymenu/button_imgs/cheetos.png
+}
+
+customization {
+  identifier = %id=505100%
+  action = setbuttondescription
+  description = Be bot
+}
+
+customization {
+  identifier = %id=345972%
+  orientation = mid-centered
+  x = -55
+  action = movebutton
+  y = -52
+}
+
+customization {
+  identifier = %id=345972%
+  width = 111
+  action = resizebutton
+  height = 105
+}
+
+customization {
+  identifier = %id=345972%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/button_imgs/lan-hover.png
+  backgroundnormal = config/fancymenu/button_imgs/lan.png
+}
+
+customization {
+  identifier = %id=345972%
+  action = setbuttondescription
+  description = Open your world to your friends
+}
+
+customization {
+  identifier = %id=505972%
+  orientation = mid-centered
+  x = 65
+  action = movebutton
+  y = -52
+}
+
+customization {
+  identifier = %id=505972%
+  width = 111
+  action = resizebutton
+  height = 105
+}
+
+customization {
+  identifier = %id=505972%
+  action = setbuttonlabel
+  value = Back
+}
+
+customization {
+  identifier = %id=505972%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/button_imgs/back-hover.png
+  backgroundnormal = config/fancymenu/button_imgs/back.png
+}
+
+customization {
+  identifier = %id=505972%
+  seconds = 1.0
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=505972%
+  action = setbuttondescription
+  description = Go back
+}
+

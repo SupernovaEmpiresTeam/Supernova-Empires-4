@@ -1,0 +1,10 @@
+{
+   "name": "singularity.extendedcrafting.blazerite",
+   "colors": [
+     "ff5500",
+     "ff5500"
+   ],
+   "ingredient": {
+     "item": "upgradednetherite:fire_upgraded_netherite_ingot"
+   }
+}

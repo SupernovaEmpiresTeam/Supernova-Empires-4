@@ -1,0 +1,24 @@
+{
+    "oreConfig": [
+      {
+        "ore": "scalinghealth:power_crystal_ore",
+        "filler": "minecraft:stone",
+        "minY": 1,
+        "maxY": 32,
+        "maxVeinSize": 5,
+        "spawnRate": 16.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": []
+      },
+      {
+        "ore": "scalinghealth:heart_crystal_ore",
+        "filler": "minecraft:stone",
+        "minY": 1,
+        "maxY": 32,
+        "maxVeinSize": 5,
+        "spawnRate": 16.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": []
+      }
+    ]
+}

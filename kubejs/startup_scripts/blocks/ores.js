@@ -1,0 +1,6 @@
+
+
+onEvent('block.registry', event => {
+
+    
+  })

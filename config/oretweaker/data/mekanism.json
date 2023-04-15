@@ -1,0 +1,84 @@
+{
+    "oreConfig": [
+      {
+        "ore": "contenttweaker:nether_copper_ore",
+        "filler": "minecraft:netherrack",
+        "minY": 4,
+        "maxY": 128,
+        "maxVeinSize": 8,
+        "spawnRate": 20.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": []
+      },
+      {
+        "ore": "contenttweaker:nether_tin_ore",
+        "filler": "minecraft:netherrack",
+        "minY": 4,
+        "maxY": 128,
+        "maxVeinSize": 8,
+        "spawnRate": 20.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": []
+      },
+      {
+        "ore": "contenttweaker:nether_osmium_ore",
+        "filler": "minecraft:netherrack",
+        "minY": 4,
+        "maxY": 128,
+        "maxVeinSize": 8,
+        "spawnRate": 20.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": []
+      },
+      {
+        "ore": "contenttweaker:nether_lead_ore",
+        "filler": "minecraft:netherrack",
+        "minY": 4,
+        "maxY": 128,
+        "maxVeinSize": 8,
+        "spawnRate": 20.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": []
+      },
+      {
+        "ore": "contenttweaker:end_copper_ore",
+        "filler": "minecraft:end_stone",
+        "minY": 1,
+        "maxY": 64,
+        "maxVeinSize": 3,
+        "spawnRate": 2.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": []
+      },
+      {
+        "ore": "contenttweaker:end_tin_ore",
+        "filler": "minecraft:end_stone",
+        "minY": 1,
+        "maxY": 64,
+        "maxVeinSize": 3,
+        "spawnRate": 2.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": []
+      },
+      {
+        "ore": "contenttweaker:end_osmium_ore",
+        "filler": "minecraft:end_stone",
+        "minY": 1,
+        "maxY": 64,
+        "maxVeinSize": 3,
+        "spawnRate": 2.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": []
+      },
+      {
+        "ore": "contenttweaker:end_lead_ore",
+        "filler": "minecraft:end_stone",
+        "minY": 1,
+        "maxY": 64,
+        "maxVeinSize": 3,
+        "spawnRate": 2.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": []
+      }
+    ]
+  }

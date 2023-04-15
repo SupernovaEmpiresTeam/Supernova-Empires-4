@@ -1,0 +1,14 @@
+{
+	id: "236CF489FC6B3239"
+	order_index: 1
+	title: "Wood"
+	icon: "twilightforest:dark_log"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraft:oak_log" }
+		{ item: "minecraft:spruce_log" }
+		{ item: "minecraft:dark_oak_log" }
+		{ item: "chisel:planks/oak/shipping_crate" }
+		{ item: "minecraft:petrified_oak_slab" }
+	]
+}

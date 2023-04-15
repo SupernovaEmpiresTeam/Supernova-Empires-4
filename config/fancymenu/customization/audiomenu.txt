@@ -1,0 +1,271 @@
+type = menu
+
+customization-meta {
+  identifier = ichttt.mods.sounddeviceoptions.client.gui.GuiSound
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = audio
+  action = setbackgroundslideshow
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = bottom-right
+  x = -130
+  action = movebutton
+  y = -22
+}
+
+customization {
+  identifier = %id=400322%
+  width = 129
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400322%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/button_imgs/btn-template-hover.png
+  backgroundnormal = config/fancymenu/button_imgs/btn-template.png
+}
+
+customization {
+  identifier = %id=505250%
+  orientation = mid-right
+  x = -152
+  action = movebutton
+  y = -26
+}
+
+customization {
+  identifier = %id=505250%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/button_imgs/btn-template-hover.png
+  backgroundnormal = config/fancymenu/button_imgs/btn-template.png
+}
+
+customization {
+  identifier = %id=345154%
+  orientation = mid-centered
+  x = -75
+  action = movebutton
+  y = -35
+}
+
+customization {
+  identifier = %id=345154%
+  width = 150
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=345154%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/button_imgs/btn-template-hover.png
+  backgroundnormal = config/fancymenu/button_imgs/btn-template.png
+}
+
+customization {
+  identifier = %id=345250%
+  orientation = mid-left
+  x = 2
+  action = movebutton
+  y = -29
+}
+
+customization {
+  identifier = %id=345250%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/button_imgs/btn-template-hover.png
+  backgroundnormal = config/fancymenu/button_imgs/btn-template.png
+}
+
+customization {
+  identifier = %id=505226%
+  orientation = mid-right
+  x = -152
+  action = movebutton
+  y = -50
+}
+
+customization {
+  identifier = %id=505226%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/button_imgs/btn-template-hover.png
+  backgroundnormal = config/fancymenu/button_imgs/btn-template.png
+}
+
+customization {
+  identifier = %id=345226%
+  orientation = mid-left
+  x = 2
+  action = movebutton
+  y = -53
+}
+
+customization {
+  identifier = %id=345226%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/button_imgs/btn-template-hover.png
+  backgroundnormal = config/fancymenu/button_imgs/btn-template.png
+}
+
+customization {
+  identifier = %id=425298%
+  orientation = mid-centered
+  x = -75
+  action = movebutton
+  y = 15
+}
+
+customization {
+  identifier = %id=425298%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/button_imgs/btn-template-hover.png
+  backgroundnormal = config/fancymenu/button_imgs/btn-template.png
+}
+
+customization {
+  identifier = %id=505202%
+  orientation = mid-right
+  x = -152
+  action = movebutton
+  y = -75
+}
+
+customization {
+  identifier = %id=505202%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/button_imgs/btn-template-hover.png
+  backgroundnormal = config/fancymenu/button_imgs/btn-template.png
+}
+
+customization {
+  identifier = %id=345202%
+  orientation = mid-left
+  x = 2
+  action = movebutton
+  y = -77
+}
+
+customization {
+  identifier = %id=345202%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/button_imgs/btn-template-hover.png
+  backgroundnormal = config/fancymenu/button_imgs/btn-template.png
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = bottom-left
+  x = 2
+  action = movebutton
+  y = -22
+}
+
+customization {
+  identifier = %id=400346%
+  width = 95
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400346%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/button_imgs/btn-template-hover.png
+  backgroundnormal = config/fancymenu/button_imgs/btn-template.png
+}
+
+customization {
+  identifier = %id=400346%
+  seconds = 1.0
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=505178%
+  orientation = mid-right
+  x = -152
+  action = movebutton
+  y = -99
+}
+
+customization {
+  identifier = %id=505178%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/button_imgs/btn-template-hover.png
+  backgroundnormal = config/fancymenu/button_imgs/btn-template.png
+}
+
+customization {
+  identifier = %id=345178%
+  orientation = mid-left
+  x = 2
+  action = movebutton
+  y = -101
+}
+
+customization {
+  identifier = %id=345178%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/button_imgs/btn-template-hover.png
+  backgroundnormal = config/fancymenu/button_imgs/btn-template.png
+}
+
+customization {
+  identifier = %id=345274%
+  orientation = mid-centered
+  x = -75
+  action = movebutton
+  y = -10
+}
+
+customization {
+  identifier = %id=345274%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/button_imgs/btn-template-hover.png
+  backgroundnormal = config/fancymenu/button_imgs/btn-template.png
+}
+

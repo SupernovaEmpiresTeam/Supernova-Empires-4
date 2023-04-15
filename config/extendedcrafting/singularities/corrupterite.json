@@ -1,0 +1,10 @@
+{
+    "name": "singularity.extendedcrafting.corrupterite",
+    "colors": [
+      "e800ea",
+      "e800ea"
+    ],
+    "ingredient": {
+      "item": "upgradednetherite:corrupt_upgraded_netherite_ingot"
+    }
+  }

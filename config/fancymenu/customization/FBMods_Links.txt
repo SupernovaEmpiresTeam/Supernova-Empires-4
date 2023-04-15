@@ -1,0 +1,68 @@
+type = menu
+
+customization-meta {
+  identifier = fbmods5.links
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = openloader/resources/fbmods/menu/fbmods5_back.png
+  action = texturizebackground
+}
+
+customization {
+  orientation = top-centered
+  shadow = false
+  x = 0
+  action = addtext
+  actionid = 953fe1e4-d7d0-47cf-ae26-61d5fad3c7021639164722981
+  y = 0
+  scale = 1.0
+  alignment = left
+  value = Links
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = openlink
+  x = -50
+  width = 100
+  actionid = b67729c9-fce2-45e8-855c-73dfceaa99b01639164795422
+  action = addbutton
+  y = -35
+  description = Go to the project page
+  label = CurseForge
+  value = https://www.curseforge.com/minecraft/modpacks/supernova-empires-4
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = openlink
+  x = -50
+  width = 100
+  actionid = 11579aa3-df94-4325-bae0-d9a6ae60f3031639164859068
+  action = addbutton
+  y = -10
+  description = Donate for Supernova Empires
+  label = Donate
+  value = https://www.paypal.com/donate/?token=ZFw5uEfT8eREy1NXKLYyOt6i3PGQ9nqnsHgkPXm7kInV6yg_cGV0POMHJ3PMXPT8fIrOusO20rD935q2&locale.x=US
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = openlink
+  x = -50
+  width = 100
+  actionid = 62ddaa15-a847-48d2-803d-938c6af6aaa81639165114492
+  action = addbutton
+  y = 14
+  label = Twitch
+  value = https://www.twitch.tv/filmabem
+  height = 20
+}
+

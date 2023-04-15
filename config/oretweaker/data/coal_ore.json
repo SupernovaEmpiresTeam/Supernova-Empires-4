@@ -1,0 +1,34 @@
+{
+  "oreConfig": [
+    {
+      "ore": "minecraft:coal_ore",
+      "filler": "minecraft:stone",
+      "minY": 1,
+      "maxY": 128,
+      "maxVeinSize": 16,
+      "spawnRate": 20.0,
+      "biomeBlacklist": [],
+      "biomeWhitelist": []
+    },
+    {
+      "ore": "contenttweaker:nether_coal_ore",
+      "filler": "minecraft:netherrack",
+      "minY": 1,
+      "maxY": 128,
+      "maxVeinSize": 16,
+      "spawnRate": 40.0,
+      "biomeBlacklist": [],
+      "biomeWhitelist": []
+    },
+    {
+      "ore": "contenttweaker:end_coal_ore",
+      "filler": "minecraft:end_stone",
+      "minY": 1,
+      "maxY": 64,
+      "maxVeinSize": 3,
+      "spawnRate": 2.0,
+      "biomeBlacklist": [],
+      "biomeWhitelist": []
+    }
+  ]
+}

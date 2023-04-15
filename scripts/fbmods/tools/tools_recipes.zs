@@ -1,0 +1,20 @@
+craftingTable.addShapedMirrored("axe", <item:contenttweaker:dirt_axe>, [
+    [<item:minecraft:air>, <item:minecraft:dirt>, <item:minecraft:dirt>], 
+    [<item:minecraft:air>, <item:minecraft:stick>, <item:minecraft:dirt>],
+    [<item:minecraft:air>, <item:minecraft:stick>, <item:minecraft:air>]]);
+craftingTable.addShapedMirrored("pickaxe", <item:contenttweaker:dirt_pickaxe>, [
+    [<item:minecraft:dirt>, <item:minecraft:dirt>, <item:minecraft:dirt>], 
+    [<item:minecraft:air>, <item:minecraft:stick>, <item:minecraft:air>],
+    [<item:minecraft:air>, <item:minecraft:stick>, <item:minecraft:air>]]);
+craftingTable.addShapedMirrored("sholvel", <item:contenttweaker:dirt_shovel>, [
+    [<item:minecraft:air>, <item:minecraft:dirt>, <item:minecraft:air>], 
+    [<item:minecraft:air>, <item:minecraft:stick>, <item:minecraft:air>],
+    [<item:minecraft:air>, <item:minecraft:stick>, <item:minecraft:air>]]);
+craftingTable.addShapedMirrored("hoe", <item:contenttweaker:dirt_hoe>, [
+    [<item:minecraft:air>, <item:minecraft:dirt>, <item:minecraft:dirt>], 
+    [<item:minecraft:air>, <item:minecraft:stick>, <item:minecraft:air>],
+    [<item:minecraft:air>, <item:minecraft:stick>, <item:minecraft:air>]]);
+craftingTable.addShapedMirrored("sword", <item:contenttweaker:dirt_sword>, [
+    [<item:minecraft:air>, <item:minecraft:dirt>, <item:minecraft:air>], 
+    [<item:minecraft:air>, <item:minecraft:dirt>, <item:minecraft:air>],
+    [<item:minecraft:air>, <item:minecraft:stick>, <item:minecraft:air>]]);

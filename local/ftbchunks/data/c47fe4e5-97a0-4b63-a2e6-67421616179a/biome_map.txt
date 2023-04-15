@@ -1,0 +1,8 @@
+#35F cavebiomeapi:caves
+#010 minecraft:forest
+#512 integrateddynamics:meneglin
+#104 minecraft:modified_gravelly_mountains
+#379 minecraft:mountains
+#3DC minecraft:plains
+#452 minecraft:wooded_hills
+#306 minecraft:wooded_mountains

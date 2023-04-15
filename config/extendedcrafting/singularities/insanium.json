@@ -1,0 +1,10 @@
+{
+    "name": "singularity.extendedcrafting.insanium",
+    "colors": [
+      "840488",
+      "840488"
+    ],
+    "ingredient": {
+      "item": "mysticalagradditions:insanium_essence"
+    }
+  }

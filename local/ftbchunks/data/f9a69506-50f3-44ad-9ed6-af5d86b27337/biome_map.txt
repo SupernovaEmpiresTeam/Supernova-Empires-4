@@ -1,0 +1,8 @@
+#35F cavebiomeapi:caves
+#4F9 minecraft:dark_forest
+#5CC minecraft:dark_forest_hills
+#1C1 cavesandcliffs:lush_caves
+#379 minecraft:mountains
+#3DC minecraft:plains
+#5FF minecraft:river
+#4D3 minecraft:swamp

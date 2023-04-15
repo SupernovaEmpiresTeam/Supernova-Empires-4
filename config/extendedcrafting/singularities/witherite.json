@@ -1,0 +1,10 @@
+{
+    "name": "singularity.extendedcrafting.withererite",
+    "colors": [
+      "363636",
+      "363636"
+    ],
+    "ingredient": {
+      "item": "upgradednetherite:wither_upgraded_netherite_ingot"
+    }
+  }

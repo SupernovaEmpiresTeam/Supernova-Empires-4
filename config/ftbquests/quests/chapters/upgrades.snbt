@@ -1,0 +1,104 @@
+{
+	id: "7AAE9BB30AEA0E9A"
+	group: "1FF7E0AB5672A01C"
+	order_index: 0
+	filename: "upgrades"
+	title: "Upgrades"
+	icon: "contenttweaker:universal_upgrade"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -5.0d
+			y: 0.0d
+			dependencies: [
+				"158316E017BF928D"
+				"1E442D4B37E60100"
+			]
+			hide: true
+			id: "06958F0CB2F044E6"
+			tasks: [{
+				id: "1324C53474DD3186"
+				type: "item"
+				item: "contenttweaker:universal_upgrade_core"
+			}]
+			rewards: [{
+				id: "03E27DB05F134BF7"
+				type: "item"
+				item: {
+					id: "kubejs:one_dollar"
+					Count: 1b
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: -5.0d
+			y: 2.0d
+			dependencies: [
+				"158316E017BF928D"
+				"1E442D4B37E60100"
+			]
+			hide: true
+			id: "4EA36AB8B948AF4A"
+			tasks: [{
+				id: "165413BF671AC7B9"
+				type: "item"
+				item: "contenttweaker:universal_upgrade_cover"
+			}]
+			rewards: [{
+				id: "582BE3529CA9C68C"
+				type: "item"
+				item: {
+					id: "kubejs:one_dollar"
+					Count: 1b
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: -3.0d
+			y: 1.0d
+			dependencies: [
+				"06958F0CB2F044E6"
+				"4EA36AB8B948AF4A"
+			]
+			hide: true
+			id: "134646CEF1D95B01"
+			tasks: [{
+				id: "3A098473E31EA560"
+				type: "item"
+				item: "contenttweaker:universal_upgrade"
+			}]
+			rewards: [
+				{
+					id: "4A94812BCAA5E364"
+					type: "item"
+					item: "contenttweaker:universal_upgrade"
+					count: 2
+				}
+				{
+					id: "34BD2DEE8F962BEF"
+					type: "item"
+					item: {
+						id: "kubejs:one_dollar"
+						Count: 1b
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": {
+								BuiltInEnchantments: [ ]
+							}
+						}
+					}
+				}
+			]
+		}
+	]
+}

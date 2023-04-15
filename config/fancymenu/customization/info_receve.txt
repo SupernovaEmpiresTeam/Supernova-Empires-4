@@ -1,0 +1,42 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.DownloadTerrainScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = config/fancymenu/backgrounds/loading.jpg
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  path = config/fancymenu/logo.png
+  orientation = top-centered
+  x = -122
+  width = 245
+  action = addtexture
+  actionid = b05b4cf8-6ddd-4d1f-a75e-9d9effe68bae1665934658693
+  y = 6
+  height = 57
+}
+
+customization {
+  path = config/fancymenu/logo/bh.png
+  orientation = top-right
+  x = -130
+  width = 128
+  action = addtexture
+  actionid = 0adcb2cb-35d2-4c04-aedf-61c38ae2a1a41665934681702
+  y = 8
+  height = 27
+}
+

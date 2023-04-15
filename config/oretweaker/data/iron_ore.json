@@ -1,0 +1,34 @@
+{
+  "oreConfig": [
+    {
+      "ore": "minecraft:iron_ore",
+      "filler": "minecraft:stone",
+      "minY": 1,
+      "maxY": 64,
+      "maxVeinSize": 8,
+      "spawnRate": 20.0,
+      "biomeBlacklist": [],
+      "biomeWhitelist": []
+    },
+    {
+      "ore": "mcontenttweaker:nether_iron_ore",
+      "filler": "minecraft:netherrack",
+      "minY": 1,
+      "maxY": 128,
+      "maxVeinSize": 8,
+      "spawnRate": 25.0,
+      "biomeBlacklist": [],
+      "biomeWhitelist": []
+    },
+    {
+      "ore": "contenttweaker:end_iron_ore",
+      "filler": "minecraft:end_stone",
+      "minY": 1,
+      "maxY": 64,
+      "maxVeinSize": 3,
+      "spawnRate": 2.0,
+      "biomeBlacklist": [],
+      "biomeWhitelist": []
+    }
+  ]
+}

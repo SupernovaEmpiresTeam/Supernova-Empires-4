@@ -1,0 +1,15 @@
+{
+	id: "7415850EC9700E32"
+	order_index: 4
+	title: "Stone Reward"
+	icon: "minecraft:stone"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraft:stone" }
+		{ item: "minecraft:stone_slab" }
+		{ item: "minecraft:smooth_stone_slab" }
+		{ item: "minecraft:cobblestone_slab" }
+		{ item: "minecraft:stone_brick_slab" }
+		{ item: "minecraft:stone_bricks" }
+	]
+}

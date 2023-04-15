@@ -1,0 +1,65 @@
+{
+    "name": "Power Generator",
+    "appearance": {
+      "block": "custommachinery:machine/power_generator"
+    },
+    "components": [
+        {
+          "id": "input1",
+          "mode": "input",
+          "capacity": 999,
+          "type": "custommachinery:item"
+        },
+        {
+          "capacity": 999999999,
+          "maxInput": 0,
+          "maxOutput": 50000000,
+          "type": "custommachinery:energy"
+        }
+    ],
+    "gui": [
+      {
+        "height": 166,
+        "texture": "custommachinery:textures/gui/base_background.png",
+        "x": 0,
+        "y": 0,
+        "width": 256,
+        "type": "custommachinery:texture"
+      },
+      {
+        "height": 76,
+        "x": 47,
+        "y": 80,
+        "width": 162,
+        "type": "custommachinery:player_inventory"
+      },
+      {
+        "height": 44,
+        "x": 235,
+        "y": 30,
+        "width": 18,
+        "type": "custommachinery:energy"
+      },
+      {
+        "height": 18,
+        "id": "input1",
+        "x": 120,
+        "y": 40,
+        "width": 18,
+        "type": "custommachinery:slot"
+      },
+      {
+        "x": 236,
+        "y": 5,
+        "width": 16,
+        "height": 16,
+        "type": "custommachinery:status"
+      },
+      {
+        "x": 7,
+        "y": 5,
+        "text": "Power Generator",
+        "type": "custommachinery:text"
+      }
+    ]
+  }

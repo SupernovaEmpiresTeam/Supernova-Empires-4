@@ -1,0 +1,10 @@
+{
+    "name": "singularity.extendedcrafting.stone",
+    "colors": [
+      "878787",
+      "878787"
+    ],
+    "ingredient": {
+      "tag": "forge:stone"
+    }
+  }

@@ -1,0 +1,10 @@
+{
+    "name": "singularity.extendedcrafting.fluix",
+    "colors": [
+      "A319AF",
+      "A319AF"
+    ],
+    "ingredient": {
+      "item": "appliedenergistics2:fluix_crystal"
+    }
+  }

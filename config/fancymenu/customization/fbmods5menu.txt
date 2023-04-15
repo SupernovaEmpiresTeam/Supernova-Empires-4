@@ -1,0 +1,321 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.MainMenuScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  action = setscale
+  scale = 3
+}
+
+customization {
+  baseheight = 1002
+  action = autoscale
+  basewidth = 1920
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-centered
+  x = -122
+  action = movebutton
+  y = -58
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  width = 113
+  action = resizebutton
+  height = 116
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = setbuttonlabel
+  value = Play Online
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/button_imgs/play-online-hover.png
+  backgroundnormal = config/fancymenu/button_imgs/play-online.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  seconds = 2.0
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = setbuttondescription
+  description = Play with your friends
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -257
+  action = movebutton
+  y = -58
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 112
+  action = resizebutton
+  height = 116
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = setbuttonlabel
+  value = Play Alone
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/button_imgs/play-alone-hover.png
+  backgroundnormal = config/fancymenu/button_imgs/play-alone.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  seconds = 1.5
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = setbuttondescription
+  description = Play on your local worlds
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-centered
+  x = 17
+  action = movebutton
+  y = -58
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 113
+  action = resizebutton
+  height = 116
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = setbuttonlabel
+  value = Settings
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/button_imgs/settings-hover.png
+  backgroundnormal = config/fancymenu/button_imgs/settings.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  seconds = 3.5
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = setbuttondescription
+  description = Configure the Game
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 186
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 1f530da1-ffd3-4a47-84e5-9b5d8632f44e1657726886303
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 108
+  action = deep_customization_element:title_screen_branding
+  actionid = d6c1d78e-d419-453e-b7a4-464bdbde21761657726886307
+  y = 295
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 411
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = ca9a204d-0113-47f8-bbba-775767438b141657726886307
+  y = 317
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 423
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 06b15f0a-83f4-4744-86a6-495f2a5986c91657726886307
+  y = 183
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 183
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 13b1611b-548b-493f-82a3-f93d7c2c49fb1657726886307
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = a417bccb-065b-42a3-87ad-41c35c0efd951657726886307
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 4.0
+  buttonaction = openlink
+  backgroundhovered = config/fancymenu/button_imgs/get-server-hover.png
+  description = Rent a server to play with your friends
+  label = Get a Server
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 1.0
+  x = 154
+  width = 110
+  actionid = e4ccdb8c-d754-4942-ad61-60a7953813a61639608257156
+  action = addbutton
+  y = -57
+  delayappearance = true
+  backgroundnormal = config/fancymenu/button_imgs/get-server.png
+  value = https://www.bisecthosting.com/filmabem
+  delayappearanceeverytime = true
+  height = 114
+}
+
+customization {
+  orientation = bottom-right
+  delayappearanceseconds = 5.0
+  path = config/fancymenu/logo/bh.png
+  fadein = true
+  fadeinspeed = 1.0
+  x = -161
+  width = 159
+  action = addtexture
+  actionid = 2a287513-a576-45aa-83c7-a78b3faffbf21637353736324
+  y = -39
+  delayappearance = true
+  delayappearanceeverytime = true
+  height = 39
+}
+
+customization {
+  orientation = bottom-right
+  shadow = false
+  delayappearanceseconds = 5.0
+  scale = 1.0
+  fadein = true
+  fadeinspeed = 1.0
+  x = -79
+  action = addtext
+  actionid = 97c73a06-bfb4-4879-9f98-7a62e5db96b91637353783725
+  y = -46
+  delayappearance = true
+  alignment = left
+  value = Partnered With:
+  delayappearanceeverytime = true
+}
+
+customization {
+  path = config/fancymenu/logo.png
+  orientation = top-centered
+  x = -142
+  width = 285
+  action = addtexture
+  actionid = 88dd4fc8-2a4a-4c98-a155-276ca2454a8e1676741553070
+  y = 0
+  height = 100
+}
+

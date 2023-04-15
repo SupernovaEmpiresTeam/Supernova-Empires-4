@@ -1,0 +1,8 @@
+{
+	chapter_groups: [
+		{ id: "0DFA3A3EED52481B", title: "Starting" }
+		{ id: "41089074FD760F7E", title: "Mining" }
+		{ id: "1FF7E0AB5672A01C", title: "Industrial" }
+		{ id: "12A1CC5854096BAF", title: "Machines" }
+	]
+}

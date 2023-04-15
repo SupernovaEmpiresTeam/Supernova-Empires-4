@@ -1,0 +1,34 @@
+{
+  "oreConfig": [
+    {
+      "ore": "minecraft:diamond_ore",
+      "filler": "minecraft:stone",
+      "minY": 1,
+      "maxY": 16,
+      "maxVeinSize": 7,
+      "spawnRate": 1.0,
+      "biomeBlacklist": [],
+      "biomeWhitelist": []
+    },
+    {
+      "ore": "contenttweaker:nether_diamond_ore",
+      "filler": "minecraft:netherrack",
+      "minY": 1,
+      "maxY": 16,
+      "maxVeinSize": 7,
+      "spawnRate": 5.0,
+      "biomeBlacklist": [],
+      "biomeWhitelist": []
+    },
+    {
+      "ore": "contenttweaker:end_diamond_ore",
+      "filler": "minecraft:end_stone",
+      "minY": 1,
+      "maxY": 64,
+      "maxVeinSize": 3,
+      "spawnRate": 2.0,
+      "biomeBlacklist": [],
+      "biomeWhitelist": []
+    }
+  ]
+}

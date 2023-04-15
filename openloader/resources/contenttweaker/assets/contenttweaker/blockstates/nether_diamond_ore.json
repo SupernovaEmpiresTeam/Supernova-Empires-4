@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model" : "contenttweaker:block/nether_diamond_ore"
+    }
+  }
+}

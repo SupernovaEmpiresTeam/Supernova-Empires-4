@@ -1,0 +1,15 @@
+{
+	id: "5F29EEA42F925CDC"
+	order_index: 3
+	title: "upgrades"
+	icon: "contenttweaker:universal_upgrade"
+	loot_size: 1
+	rewards: [
+		{ item: "contenttweaker:universal_upgrade" }
+		{ item: "pipez:basic_upgrade" }
+		{ item: "rats:rat_upgrade_basic" }
+		{ item: "refinedstorage:upgrade" }
+		{ item: "sophisticatedbackpacks:pickup_upgrade" }
+		{ item: "mekanism:basic_control_circuit" }
+	]
+}
