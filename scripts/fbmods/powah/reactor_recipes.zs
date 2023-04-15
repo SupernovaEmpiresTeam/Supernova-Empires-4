@@ -1,11 +1,4 @@
 
-craftingTable.removeRecipe(<item:powah:reactor_starter>);
-craftingTable.removeRecipe(<item:powah:reactor_basic>);
-craftingTable.removeRecipe(<item:powah:reactor_hardened>);
-craftingTable.removeRecipe(<item:powah:reactor_blazing>);
-craftingTable.removeRecipe(<item:powah:reactor_niotic>);
-craftingTable.removeRecipe(<item:powah:reactor_spirited>);
-craftingTable.removeRecipe(<item:powah:reactor_nitro>);
 mods.extendedcrafting.CombinationCrafting.addRecipe("0fd4511b-677f-4f1f-8d68-7236a34f753e", <item:powah:reactor_starter> * 36, 500000, [
 	<item:mekanism:ultimate_induction_cell>, <item:contenttweaker:universal_upgrade>, <item:minecraft:coal>, <item:minecraft:coal>, <item:minecraft:redstone>, <item:contenttweaker:bluestone>, <item:powah:uraninite>, <item:minecraft:redstone>, <item:contenttweaker:bluestone>, <item:powah:uraninite>, <item:minecraft:coal>, <item:mekanism:ultimate_control_circuit>, <item:mekanism:ultimate_control_circuit>, <item:minecraft:coal>, <item:minecraft:coal>, <item:contenttweaker:bluestone>, <item:minecraft:redstone>, <item:minecraft:coal>, <item:contenttweaker:bluestone>, <item:minecraft:redstone>, <item:powah:uraninite>, <item:powah:uraninite>, <item:contenttweaker:universal_upgrade>, <item:minecraft:coal>, <item:minecraft:coal>
 ]);

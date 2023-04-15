@@ -1,8 +1,3 @@
-craftingTable.removeRecipe(<item:lazierae2:etcher>);
-craftingTable.removeRecipe(<item:lazierae2:energizer>);
-craftingTable.removeRecipe(<item:lazierae2:centrifuge>);
-craftingTable.removeRecipe(<item:lazierae2:aggregator>);
-
 mods.extendedcrafting.TableCrafting.addShaped("d14cb163-75ba-41f7-aeaf-1b796c49bd89", 0, <item:lazierae2:etcher>, [
 	[<item:appliedenergistics2:purified_certus_quartz_crystal>, <item:appliedenergistics2:purified_certus_quartz_crystal>, <item:appliedenergistics2:purified_certus_quartz_crystal>, <item:appliedenergistics2:purified_certus_quartz_crystal>, <item:appliedenergistics2:purified_certus_quartz_crystal>, <item:appliedenergistics2:purified_certus_quartz_crystal>, <item:appliedenergistics2:purified_certus_quartz_crystal>, <item:appliedenergistics2:purified_certus_quartz_crystal>, <item:appliedenergistics2:purified_certus_quartz_crystal>], 
 	[<item:appliedenergistics2:purified_certus_quartz_crystal>, <item:appliedenergistics2:purified_certus_quartz_crystal>, <item:appliedenergistics2:purified_certus_quartz_crystal>, <item:appliedenergistics2:purified_certus_quartz_crystal>, <item:appliedenergistics2:purified_certus_quartz_crystal>, <item:appliedenergistics2:purified_certus_quartz_crystal>, <item:appliedenergistics2:purified_certus_quartz_crystal>, <item:appliedenergistics2:purified_certus_quartz_crystal>, <item:appliedenergistics2:purified_certus_quartz_crystal>], 

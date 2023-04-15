@@ -31,6 +31,7 @@ onEvent('recipes', event => {
     event.remove({id: 'extendedcrafting:crafting_core'})
     event.remove({id: 'extendedcrafting:compressor'})
     event.remove({id: 'extendedcrafting:luminessence'})
+    event.remove({id: 'extendedcrafting:the_ultimate_catalyst'})
   
     // Mekanism
 
@@ -38,8 +39,31 @@ onEvent('recipes', event => {
     event.remove({id: 'mekanism:digital_miner'})
     event.remove({id: 'mekanismadditions:obsidian_tnt'})
 
+    event.remove({id: 'mekanism:hdpe_sheet'})
+    event.remove({id: 'mekanism:mekasuit_helmet'})
+    event.remove({id: 'mekanism:mekasuit_bodyarmor'})
+    event.remove({id: 'mekanism:mekasuit_pants'})
+    event.remove({id: 'mekanism:mekasuit_boots'})
+
     // ProjectE
 
     event.remove({id: 'projecte:repair_talisman'})
+
+    // Applied Energistics 2
+
+    event.remove({id: 'lazierae2:etcher'})
+    event.remove({id: 'lazierae2:energizer'})
+    event.remove({id: 'lazierae2:centrifuge'})
+    event.remove({id: 'lazierae2:aggregator'})
+
+    // Powah
+
+    event.remove({id: 'powah:crafting/reactor_starter'})
+    event.remove({id: 'powah:crafting/reactor_basic'})
+    event.remove({id: 'powah:crafting/reactor_hardened'})
+    event.remove({id: 'powah:crafting/reactor_blazing'})
+    event.remove({id: 'powah:crafting/reactor_niotic'})
+    event.remove({id: 'powah:crafting/reactor_spirited'})
+    event.remove({id: 'powah:crafting/reactor_nitro'})
 
 })

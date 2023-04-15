@@ -1,10 +1,4 @@
 
-craftingTable.removeRecipe(<item:mekanism:hdpe_sheet>);
-craftingTable.removeRecipe(<item:mekanism:mekasuit_helmet>);
-craftingTable.removeRecipe(<item:mekanism:mekasuit_bodyarmor>);
-craftingTable.removeRecipe(<item:mekanism:mekasuit_pants>);
-craftingTable.removeRecipe(<item:mekanism:mekasuit_boots>);
-
 mods.extendedcrafting.CombinationCrafting.addRecipe("5c5cb936-7a8a-4612-9758-1f8d30ddccaa", <item:mekanism:hdpe_sheet>, 100000, [
 	<item:mekanism:ultimate_induction_provider>, <item:minecraft:netherite_ingot>, <item:minecraft:netherite_ingot>, <item:minecraft:netherite_ingot>, <item:contenttweaker:universal_upgrade>, <item:contenttweaker:universal_upgrade>, <item:mekanism:ultimate_control_circuit>, <item:mekanism:ultimate_infusing_factory>, <item:mekanism:ultimate_energy_cube>, <item:mekanism:ultimate_control_circuit>, <item:minecraft:netherite_ingot>, <item:minecraft:netherite_ingot>, <item:minecraft:netherite_ingot>, <item:minecraft:netherite_ingot>, <item:minecraft:netherite_ingot>, <item:contenttweaker:universal_upgrade>, <item:contenttweaker:universal_upgrade>, <item:minecraft:netherite_ingot>, <item:mekanism:ultimate_bin>, <item:mekanism:ultimate_energy_cube>, <item:mekanism:ultimate_control_circuit>, <item:mekanism:ultimate_control_circuit>, <item:minecraft:netherite_ingot>, <item:minecraft:netherite_ingot>, <item:minecraft:netherite_ingot>
 ]);

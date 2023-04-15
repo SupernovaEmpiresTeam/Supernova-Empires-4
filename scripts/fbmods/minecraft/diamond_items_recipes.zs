@@ -1,14 +1,4 @@
 
-// Removed Diamond gear recipes
-craftingTable.removeRecipe(<item:minecraft:diamond_hoe>);
-craftingTable.removeRecipe(<item:minecraft:diamond_axe>);
-craftingTable.removeRecipe(<item:minecraft:diamond_pickaxe>);
-craftingTable.removeRecipe(<item:minecraft:diamond_shovel>);
-craftingTable.removeRecipe(<item:minecraft:diamond_sword>);
-craftingTable.removeRecipe(<item:minecraft:diamond_helmet>);
-craftingTable.removeRecipe(<item:minecraft:diamond_chestplate>);
-craftingTable.removeRecipe(<item:minecraft:diamond_leggings>);
-craftingTable.removeRecipe(<item:minecraft:diamond_boots>);
 
 // Added Diamond Gear Recipes
 // Hoe
