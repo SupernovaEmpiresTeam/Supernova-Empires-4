@@ -159,4 +159,16 @@ onEvent('item.registry', event => {
     event.create('greenstone_plate').displayName('Greenstone Plate')
     event.create('greenstone_rod').displayName('Greenstone Rod')
 
+    // Upgraded netherite
+
+    event.create('goldrite_seed').displayName('Goldrite Seed')
+    event.create('blazerite_seed').displayName('Blazerite Seed')
+    event.create('enderite_seed').displayName('Enderite Seed')
+    event.create('prismarite_seed').displayName('Prismarite Seed')
+    event.create('witherite_seed').displayName('Witherite Seed')
+    event.create('spiderite_seed').displayName('Spiderite Seed')
+    event.create('phanterite_seed').displayName('Phanterite Seed')
+    event.create('featherite_seed').displayName('Featherite Seed')
+    event.create('corrupterite_seed').displayName('Corrupterite Seed')
+
 })
