@@ -1,26 +1,13 @@
 import crafttweaker.api.tag.MCTag;
 
-<tag:items:forge:upgrades/universal>.add(<item:contenttweaker:universal_upgrade>);
+
 <tag:items:forge:dusts/bluestone>.add(<item:contenttweaker:bluestone>);
 <tag:items:forge:dusts>.add(<item:contenttweaker:bluestone>);
 <tag:items:forge:dusts/lightbluestone>.add(<item:contenttweaker:light_bluestone>);
 <tag:items:forge:dusts>.add(<item:contenttweaker:light_bluestone>);
 <tag:items:forge:dusts/greenstone>.add(<item:contenttweaker:greenstone>);
 <tag:items:forge:dusts>.add(<item:contenttweaker:greenstone>);
-<tag:items:mekanism:alloys/basic>.add(<item:contenttweaker:bluestone>);
-<tag:items:mekanism:alloys>.add(<item:contenttweaker:bluestone>);
 
-<tag:items:refinedstorage:silicon>.add(<item:appliedenergistics2:silicon>);
-<tag:items:appliedenergistics2:silicon>.add(<item:refinedstorage:silicon>);
-<tag:items:fbmods:netherite>.add(<item:upgradednetherite:gold_upgraded_netherite_ingot>);
-<tag:items:fbmods:netherite>.add(<item:upgradednetherite:fire_upgraded_netherite_ingot>);
-<tag:items:fbmods:netherite>.add(<item:upgradednetherite:ender_upgraded_netherite_ingot>);
-<tag:items:fbmods:netherite>.add(<item:upgradednetherite:water_upgraded_netherite_ingot>);
-<tag:items:fbmods:netherite>.add(<item:upgradednetherite:wither_upgraded_netherite_ingot>);
-<tag:items:fbmods:netherite>.add(<item:upgradednetherite:poison_upgraded_netherite_ingot>);
-<tag:items:fbmods:netherite>.add(<item:upgradednetherite:phantom_upgraded_netherite_ingot>);
-<tag:items:fbmods:netherite>.add(<item:upgradednetherite:feather_upgraded_netherite_ingot>);
-<tag:items:fbmods:netherite>.add(<item:upgradednetherite:corrupt_upgraded_netherite_ingot>);
 <tag:items:fbmods:netherite/gold>.add(<item:upgradednetherite:gold_upgraded_netherite_ingot>);
 <tag:items:fbmods:netherite/blaze>.add(<item:upgradednetherite:fire_upgraded_netherite_ingot>);
 <tag:items:fbmods:netherite/ender>.add(<item:upgradednetherite:ender_upgraded_netherite_ingot>);
