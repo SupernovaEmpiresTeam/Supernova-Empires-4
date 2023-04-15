@@ -1,0 +1,14 @@
+{
+    "name": "Dark Steel",
+    "type": "resource",
+    "tier": "mysticalagriculture:3",
+    "ingredient": {
+      "item": "kubejs:dark_steel_ingot"
+    },
+    "color": "121513",
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_dust",
+      "essence": "mysticalagriculture:item/essence_dust"
+    },
+    "crux": "mysticalagriculture:tertium_farmland"
+  }

@@ -1,0 +1,14 @@
+{
+    "name": "Spiderite",
+    "type": "resource",
+    "tier": "mysticalagriculture:6",
+    "ingredient": {
+      "item": "upgradednetherite:spider_upgraded_netherite_ingot"
+    },
+    "color": "eb7a34",
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_dust",
+      "essence": "mysticalagriculture:item/essence_dust"
+    },
+    "crux": "mysticalagradditions:insanium_farmland"
+  }

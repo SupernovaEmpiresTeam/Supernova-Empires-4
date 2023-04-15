@@ -5,6 +5,6 @@
       "0000FF"
     ],
     "ingredient": {
-      "item": "contenttweaker:bluestone"
+      "tag": "forge:dusts/bluestone"
     }
   }

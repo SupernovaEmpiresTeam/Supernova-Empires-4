@@ -5,6 +5,6 @@
       "004c7f"
     ],
     "ingredient": {
-      "item": "contenttweaker:blue_iron"
+      "tag": "forge:ingots/blue_iron"
     }
   }

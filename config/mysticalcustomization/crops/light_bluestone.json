@@ -1,0 +1,14 @@
+{
+    "name": "Light Bluestone",
+    "type": "resource",
+    "tier": "mysticalagriculture:3",
+    "ingredient": {
+      "item": "kubejs:light_bluestone"
+    },
+    "color": "59A5F1",
+    "textures": {
+      "flower": "mysticalagriculture:block/flower_dust",
+      "essence": "mysticalagriculture:item/essence_dust"
+    },
+    "crux": "mysticalagriculture:tertium_farmland"
+  }

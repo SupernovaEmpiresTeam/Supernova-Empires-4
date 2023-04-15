@@ -5,6 +5,6 @@
       "00fc66"
     ],
     "ingredient": {
-      "item": "contenttweaker:greenstone"
+      "tag": "forge:dusts/greenstone"
     }
   }
