@@ -11,7 +11,7 @@
       "biomeWhitelist": []
     },
     {
-      "ore": "contenttweaker:nether_diamond_ore",
+      "ore": "kubejs:nether_diamond_ore",
       "filler": "minecraft:netherrack",
       "minY": 1,
       "maxY": 16,
@@ -21,7 +21,7 @@
       "biomeWhitelist": []
     },
     {
-      "ore": "contenttweaker:end_diamond_ore",
+      "ore": "kubejs:end_diamond_ore",
       "filler": "minecraft:end_stone",
       "minY": 1,
       "maxY": 64,

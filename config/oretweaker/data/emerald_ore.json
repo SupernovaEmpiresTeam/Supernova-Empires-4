@@ -13,7 +13,7 @@
       ]
     },
     {
-      "ore": "contenttweaker:nether_emerald_ore",
+      "ore": "kubejs:nether_emerald_ore",
       "filler": "minecraft:netherrack",
       "minY": 4,
       "maxY": 32,
@@ -23,7 +23,7 @@
       "biomeWhitelist": []
     },
     {
-      "ore": "contenttweaker:end_emerald_ore",
+      "ore": "kubejs:end_emerald_ore",
       "filler": "minecraft:end_stone",
       "minY": 1,
       "maxY": 64,

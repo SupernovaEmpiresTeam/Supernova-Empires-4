@@ -16,33 +16,3 @@ mods.extendedcrafting.CombinationCrafting.addRecipe("e925a60f-ef55-4bb0-9131-33d
 mods.extendedcrafting.CombinationCrafting.addRecipe("b4b43ccc-c55a-49d3-8de7-c2a13a629e5e", <item:contenttweaker:ultimate_infused_fbmodium_ingot>, 100000, [
 	<item:contenttweaker:end_infused_fbmodium_ingot>, <item:extendedcrafting:the_ultimate_catalyst>, <item:extendedcrafting:the_ultimate_catalyst>, <item:extendedcrafting:the_ultimate_catalyst>, <item:extendedcrafting:the_ultimate_catalyst>
 ]);
-
-craftingTable.addShapeless("fbmodiumblck", <item:contenttweaker:fbmodium_block>, [
-	<item:contenttweaker:fbmodium_ingot>, <item:contenttweaker:fbmodium_ingot>, <item:contenttweaker:fbmodium_ingot>, <item:contenttweaker:fbmodium_ingot>, <item:contenttweaker:fbmodium_ingot>, <item:contenttweaker:fbmodium_ingot>, <item:contenttweaker:fbmodium_ingot>, <item:contenttweaker:fbmodium_ingot>, <item:contenttweaker:fbmodium_ingot>
-]);
-craftingTable.addShapeless("fbmodiumblckn", <item:contenttweaker:nether_infused_fbmodium_block>, [
-	<item:contenttweaker:nether_infused_fbmodium_ingot>, <item:contenttweaker:nether_infused_fbmodium_ingot>, <item:contenttweaker:nether_infused_fbmodium_ingot>, <item:contenttweaker:nether_infused_fbmodium_ingot>, <item:contenttweaker:nether_infused_fbmodium_ingot>, <item:contenttweaker:nether_infused_fbmodium_ingot>, <item:contenttweaker:nether_infused_fbmodium_ingot>, <item:contenttweaker:nether_infused_fbmodium_ingot>, <item:contenttweaker:nether_infused_fbmodium_ingot>
-]);
-craftingTable.addShapeless("fbmodiumblcke", <item:contenttweaker:end_infused_fbmodium_block>, [
-	<item:contenttweaker:end_infused_fbmodium_ingot>, <item:contenttweaker:end_infused_fbmodium_ingot>, <item:contenttweaker:end_infused_fbmodium_ingot>, <item:contenttweaker:end_infused_fbmodium_ingot>, <item:contenttweaker:end_infused_fbmodium_ingot>, <item:contenttweaker:end_infused_fbmodium_ingot>, <item:contenttweaker:end_infused_fbmodium_ingot>, <item:contenttweaker:end_infused_fbmodium_ingot>, <item:contenttweaker:end_infused_fbmodium_ingot>
-]);
-craftingTable.addShapeless("fbmodiumblcku", <item:contenttweaker:ultimate_infused_fbmodium_block>, [
-	<item:contenttweaker:ultimate_infused_fbmodium_ingot>, <item:contenttweaker:ultimate_infused_fbmodium_ingot>, <item:contenttweaker:ultimate_infused_fbmodium_ingot>, <item:contenttweaker:ultimate_infused_fbmodium_ingot>, <item:contenttweaker:ultimate_infused_fbmodium_ingot>, <item:contenttweaker:ultimate_infused_fbmodium_ingot>, <item:contenttweaker:ultimate_infused_fbmodium_ingot>, <item:contenttweaker:ultimate_infused_fbmodium_ingot>, <item:contenttweaker:ultimate_infused_fbmodium_ingot>
-]);
-
-craftingTable.addShapeless("fbmodiumblck2", <item:contenttweaker:fbmodium_ingot> * 9, [
-    <item:contenttweaker:fbmodium_block>, 
-]);
-
-craftingTable.addShapeless("fbmodiumblckn2", <item:contenttweaker:nether_infused_fbmodium_ingot> * 9, [
-    <item:contenttweaker:nether_infused_fbmodium_block>, 
-]);
-
-craftingTable.addShapeless("fbmodiumblcke2", <item:contenttweaker:end_infused_fbmodium_ingot> * 9, [
-    <item:contenttweaker:end_infused_fbmodium_block>, 
-]);
-
-craftingTable.addShapeless("fbmodiumblcku2", <item:contenttweaker:ultimate_infused_fbmodium_ingot> * 9, [
-    <item:contenttweaker:ultimate_infused_fbmodium_block>, 
-]);
-

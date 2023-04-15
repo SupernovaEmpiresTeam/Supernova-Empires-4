@@ -1,7 +1,7 @@
 {
     "oreConfig": [
       {
-        "ore": "contenttweaker:bluestone_ore",
+        "ore": "kubejs:bluestone_ore",
         "filler": "minecraft:stone",
         "minY": 1,
         "maxY": 60,
@@ -11,7 +11,7 @@
         "biomeWhitelist": []
       },
       {
-        "ore": "contenttweaker:light_bluestone_ore",
+        "ore": "kubejs:light_bluestone_ore",
         "filler": "minecraft:stone",
         "minY": 1,
         "maxY": 60,
@@ -21,7 +21,7 @@
         "biomeWhitelist": []
       },
       {
-        "ore": "contenttweaker:greenstone_ore",
+        "ore": "kubejs:greenstone_ore",
         "filler": "minecraft:stone",
         "minY": 1,
         "maxY": 60,

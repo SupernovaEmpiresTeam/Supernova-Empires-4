@@ -1,7 +1,7 @@
 {
     "oreConfig": [
       {
-        "ore": "contenttweaker:nether_copper_ore",
+        "ore": "kubejs:nether_copper_ore",
         "filler": "minecraft:netherrack",
         "minY": 4,
         "maxY": 128,
@@ -11,7 +11,7 @@
         "biomeWhitelist": []
       },
       {
-        "ore": "contenttweaker:nether_tin_ore",
+        "ore": "kubejs:nether_tin_ore",
         "filler": "minecraft:netherrack",
         "minY": 4,
         "maxY": 128,
@@ -21,7 +21,7 @@
         "biomeWhitelist": []
       },
       {
-        "ore": "contenttweaker:nether_osmium_ore",
+        "ore": "kubejs:nether_osmium_ore",
         "filler": "minecraft:netherrack",
         "minY": 4,
         "maxY": 128,
@@ -31,7 +31,7 @@
         "biomeWhitelist": []
       },
       {
-        "ore": "contenttweaker:nether_lead_ore",
+        "ore": "kubejs:nether_lead_ore",
         "filler": "minecraft:netherrack",
         "minY": 4,
         "maxY": 128,
@@ -41,7 +41,7 @@
         "biomeWhitelist": []
       },
       {
-        "ore": "contenttweaker:end_copper_ore",
+        "ore": "kubejs:end_copper_ore",
         "filler": "minecraft:end_stone",
         "minY": 1,
         "maxY": 64,
@@ -51,7 +51,7 @@
         "biomeWhitelist": []
       },
       {
-        "ore": "contenttweaker:end_tin_ore",
+        "ore": "kubejs:end_tin_ore",
         "filler": "minecraft:end_stone",
         "minY": 1,
         "maxY": 64,
@@ -61,7 +61,7 @@
         "biomeWhitelist": []
       },
       {
-        "ore": "contenttweaker:end_osmium_ore",
+        "ore": "kubejs:end_osmium_ore",
         "filler": "minecraft:end_stone",
         "minY": 1,
         "maxY": 64,
@@ -71,7 +71,7 @@
         "biomeWhitelist": []
       },
       {
-        "ore": "contenttweaker:end_lead_ore",
+        "ore": "kubejs:end_lead_ore",
         "filler": "minecraft:end_stone",
         "minY": 1,
         "maxY": 64,

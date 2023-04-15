@@ -11,7 +11,7 @@
       "biomeWhitelist": []
     },
     {
-      "ore": "contenttweaker:nether_coal_ore",
+      "ore": "kubejs:nether_coal_ore",
       "filler": "minecraft:netherrack",
       "minY": 1,
       "maxY": 128,
@@ -21,7 +21,7 @@
       "biomeWhitelist": []
     },
     {
-      "ore": "contenttweaker:end_coal_ore",
+      "ore": "kubejs:end_coal_ore",
       "filler": "minecraft:end_stone",
       "minY": 1,
       "maxY": 64,

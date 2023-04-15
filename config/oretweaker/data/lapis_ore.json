@@ -11,7 +11,7 @@
       "biomeWhitelist": []
     },
     {
-      "ore": "contenttweaker:nether_lapis_ore",
+      "ore": "kubejs:nether_lapis_ore",
       "filler": "minecraft:netherrack",
       "minY": 1,
       "maxY": 120,
@@ -21,7 +21,7 @@
       "biomeWhitelist": []
     },
     {
-      "ore": "contenttweaker:end_lapis_ore",
+      "ore": "kubejs:end_lapis_ore",
       "filler": "minecraft:end_stone",
       "minY": 1,
       "maxY": 64,
