@@ -1,7 +1,3 @@
-// priority: 0
-
-
-console.info('Tags Loaded')
 
 
 onEvent('entity_type.tags', event => {
