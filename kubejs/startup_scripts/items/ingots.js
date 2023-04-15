@@ -19,6 +19,7 @@ onEvent('item.registry', event => {
     event.create('silver_ingot').displayName('Silver Ingot')
     event.create('electrum_ingot').displayName('Electrum Ingot')
     event.create('uranium_ingot').displayName('Uranium Ingot')
+    event.create('osmium_ingot').displayName('Osmium Ingot')
 
     // Ported from contenttweaker
 

@@ -109,6 +109,13 @@ onEvent('item.registry', event => {
     event.create('uranium_plate').displayName('Uranium Plate')
     event.create('uranium_rod').displayName('Uranium Rod')
 
+    // Osmium
+
+    event.create('osmium_seed').displayName('Osmium Seed')
+    event.create('osmium_gear').displayName('Osmium Gear')
+    event.create('osmium_plate').displayName('Osmium Plate')
+    event.create('osmium_rod').displayName('Osmium Rod')
+
     // Fbmodium
 
     event.create('fbmodium_seed').displayName('Fbmodium Seed')

@@ -22,6 +22,6 @@ onEvent('item.tags', event => {
     event.add('forge:ingots/bluestone', 'kubejs:bluestone_ingot')
     event.add('forge:ingots/light_bluestone', 'kubejs:light_bluestone_ingot')
     event.add('forge:ingots/greenstone', 'kubejs:greenstone_ingot')
-    // event.add('forge:ingots/copper', 'kubejs:copper_ingot')
+    event.add('forge:ingots/osmium', 'kubejs:osmium_ingot')
 
 })
