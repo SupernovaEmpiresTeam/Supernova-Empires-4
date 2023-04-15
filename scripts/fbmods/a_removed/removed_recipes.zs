@@ -1,14 +1,5 @@
 import crafttweaker.api.SmithingManager;
 // removed recipes
-// Tables
-craftingTable.removeRecipe(<item:extendedcrafting:basic_table>);
-craftingTable.removeRecipe(<item:extendedcrafting:advanced_table>);
-craftingTable.removeRecipe(<item:extendedcrafting:elite_table>);
-craftingTable.removeRecipe(<item:extendedcrafting:ultimate_table>);
-craftingTable.removeRecipe(<item:extendedcrafting:pedestal>);
-craftingTable.removeRecipe(<item:extendedcrafting:crafting_core>);
-// Ingots
-craftingTable.removeRecipe(<item:extendedcrafting:basic_table>);
 // Tools
 // Golderite
 smithing.removeRecipe(<item:upgradednetherite:gold_upgraded_netherite_sword>);
@@ -132,11 +123,6 @@ smithing.removeRecipe(<item:upgradednetherite:corrupt_upgraded_netherite_boots>)
 craftingTable.removeRecipe(<item:mekanismadditions:obsidian_tnt>);
 // Machines
 craftingTable.removeRecipe(<item:mekanism:metallurgic_infuser>);
-// Armors
-smithing.removeRecipe(<item:minecraft:netherite_helmet>);
-smithing.removeRecipe(<item:minecraft:netherite_chestplate>);
-smithing.removeRecipe(<item:minecraft:netherite_leggings>);
-smithing.removeRecipe(<item:minecraft:netherite_boots>);
 // Quantum Compressor
 craftingTable.removeRecipe(<item:extendedcrafting:compressor>);
 // ProjectE
