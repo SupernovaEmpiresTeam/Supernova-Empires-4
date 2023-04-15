@@ -20,7 +20,6 @@ onEvent('item.registry', event => {
     event.create('electrum_ingot').displayName('Electrum Ingot')
     event.create('uranium_ingot').displayName('Uranium Ingot')
 
-
     // Ported from contenttweaker
 
     event.create('fbmodium_ingot').displayName('Fbmodium Ingot')

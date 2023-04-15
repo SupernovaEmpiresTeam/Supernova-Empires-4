@@ -17,15 +17,11 @@ onEvent('item.registry', event => {
     event.create('silver_shard').displayName('Silver Shard')
     event.create('zinc_shard').displayName('Zinc Shard')
 
-
     // Already existing dusts
 
     event.create('emerald_shard').displayName('Emerald Shard')
     event.create('diamond_shard').displayName('Diamond Shard')
     event.create('quartz_shard').displayName('Quartz Shard')
-
-
-
 
 // Clumps
 
@@ -49,8 +45,6 @@ onEvent('item.registry', event => {
     event.create('diamond_clump').displayName('Diamond Clump')
     event.create('quartz_clump').displayName('Quartz Clump')
 
-
-
 // Dirty Dusts
 
     event.create('aluminium_dirty_dust').displayName('Aluminium Dirty Dust')
@@ -65,7 +59,6 @@ onEvent('item.registry', event => {
     event.create('sapphire_dirty_dust').displayName('Sapphire Dirty Dust')
     event.create('silver_dirty_dust').displayName('Silver Dirty Dust')
     event.create('zinc_dirty_dust').displayName('Zinc Dirty Dust')
-
 
     // Already existing dusts
 
