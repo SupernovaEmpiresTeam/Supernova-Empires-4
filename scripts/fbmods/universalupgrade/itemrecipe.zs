@@ -1,7 +1,4 @@
-// craftingTable.addShapedMirrored("universal", <item:contenttweaker:universal_upgrade> *16, [
-//     [<item:minecraft:glowstone_dust>, <item:minecraft:quartz>, <item:minecraft:glowstone_dust>], 
-//     [<item:minecraft:quartz>, <item:minecraft:redstone>, <item:minecraft:quartz>],
-//     [<item:minecraft:glowstone_dust>, <item:minecraft:quartz>, <item:minecraft:glowstone_dust>]]);
+
 
 mods.extendedcrafting.CombinationCrafting.addRecipe("1667d402-b589-424f-b826-b2e2c24b3fd2", <item:contenttweaker:universal_upgrade_core> * 16, 100000, [
 	<item:mekanism:alloy_infused>, <item:minecraft:redstone>, <item:minecraft:quartz>, <item:minecraft:glowstone_dust>, <item:contenttweaker:bluestone>, <item:minecraft:quartz>, <item:minecraft:glowstone_dust>, <item:contenttweaker:bluestone>, <item:minecraft:redstone>, <item:minecraft:redstone>, <item:minecraft:glowstone_dust>, <item:minecraft:quartz>, <item:minecraft:glowstone_dust>, <item:minecraft:quartz>, <item:contenttweaker:bluestone>, <item:contenttweaker:bluestone>, <item:minecraft:redstone>
