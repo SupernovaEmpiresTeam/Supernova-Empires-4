@@ -27,8 +27,19 @@ onEvent('recipes', event => {
     event.remove({id: 'extendedcrafting:advanced_table'})
     event.remove({id: 'extendedcrafting:elite_table'})
     event.remove({id: 'extendedcrafting:ultimate_table'})
-    event.remove({id: 'extendedcrafting:pedesta'})
+    event.remove({id: 'extendedcrafting:pedestal'})
     event.remove({id: 'extendedcrafting:crafting_core'})
+    event.remove({id: 'extendedcrafting:compressor'})
+    event.remove({id: 'extendedcrafting:luminessence'})
   
+    // Mekanism
+
+    event.remove({id: 'mekanism:metallurgic_infuser'})
+    event.remove({id: 'mekanism:digital_miner'})
+    event.remove({id: 'mekanismadditions:obsidian_tnt'})
+
+    // ProjectE
+
+    event.remove({id: 'projecte:repair_talisman'})
 
 })
