@@ -1,5 +1,0 @@
-
-
-mods.extendedcrafting.CombinationCrafting.addRecipe("82eb77e9-d176-449b-9bfd-f50c79672442", <item:extendedcrafting:the_ultimate_catalyst>, 100000, [
-	<item:contenttweaker:universal_upgrade>, <item:mekanism:ultimate_control_circuit>, <item:mekanism:ultimate_control_circuit>, <item:appliedenergistics2:quartz_glass>, <item:projecte:mobius_fuel>, <item:mekanism:ultimate_control_circuit>, <item:mekanism:ultimate_control_circuit>, <item:upgradednetherite:fire_upgraded_netherite_ingot>, <item:upgradednetherite:fire_upgraded_netherite_ingot>, <item:mekanism:ultimate_control_circuit>, <item:mekanism:ultimate_control_circuit>, <item:upgradednetherite:fire_upgraded_netherite_ingot>, <item:minecraft:netherite_ingot>, <item:minecraft:netherite_ingot>, <item:projecte:mobius_fuel>, <item:appliedenergistics2:quartz_glass>, <item:upgradednetherite:fire_upgraded_netherite_ingot>, <item:minecraft:netherite_ingot>, <item:minecraft:netherite_ingot>, <item:projecte:mobius_fuel>, <item:appliedenergistics2:quartz_glass>, <item:mekanism:ultimate_control_circuit>, <item:mekanism:ultimate_control_circuit>, <item:appliedenergistics2:quartz_glass>, <item:projecte:mobius_fuel>
-]);
