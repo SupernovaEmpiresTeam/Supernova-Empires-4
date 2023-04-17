@@ -12,10 +12,7 @@
 			x: -5.0d
 			y: -1.5d
 			shape: "hexagon"
-			dependencies: [
-				"47D3843CDA5839A1"
-				"3F89C608226E6D30"
-			]
+			dependencies: ["47D3843CDA5839A1"]
 			hide: true
 			dependency_requirement: "one_completed"
 			size: 1.7d
