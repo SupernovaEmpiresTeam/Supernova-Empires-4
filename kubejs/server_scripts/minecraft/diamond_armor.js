@@ -14,7 +14,7 @@ onEvent('recipes', event => {
           ],
         key: {
             "A": {
-                "item": "minecraft:diamond_ingot"
+                "item": "minecraft:diamond"
               }
         },
         result: {
@@ -39,7 +39,7 @@ onEvent('recipes', event => {
           ],
           key: {
             "A": {
-                "item": "minecraft:diamond_ingot"
+                "item": "minecraft:diamond"
               }
         },
         result: {
@@ -64,7 +64,7 @@ onEvent('recipes', event => {
           ],
           key: {
             "A": {
-                "item": "minecraft:diamond_ingot"
+                "item": "minecraft:diamond"
               }
         },
         result: {
@@ -83,7 +83,7 @@ onEvent('recipes', event => {
           ],
           key: {
             "A": {
-                "item": "minecraft:diamond_ingot"
+                "item": "minecraft:diamond"
               }
         },
         result: {
