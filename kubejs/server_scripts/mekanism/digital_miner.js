@@ -22,9 +22,6 @@ onEvent('recipes', event => {
             "B": {
                 "item": "cagedmobs:star_infused_netherite_ingot"
             },
-            "C": {
-                "item": "extendedcrafting:enhanced_ender_ingot"
-            },
             "D": {
                 "item": "extendedcrafting:ender_star"
             },
