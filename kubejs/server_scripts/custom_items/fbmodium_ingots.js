@@ -248,16 +248,16 @@ onEvent('recipes', event => {
         },
         ingredients : [
             {
-                "item": "extendedcrafting:ender_star"
+                "item": "projecte:red_matter"
               },
               {
-                "item": "extendedcrafting:ender_star"
+                "item": "projecte:red_matter"
               },
               {
-                "item": "extendedcrafting:ender_star"
+                "item": "projecte:red_matter"
               },
               {
-                "item": "extendedcrafting:ender_star"
+                "item": "projecte:red_matter"
               },
               {
                 "item": "draconicevolution:dragon_heart"
