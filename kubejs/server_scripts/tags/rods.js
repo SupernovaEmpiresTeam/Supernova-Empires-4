@@ -25,5 +25,6 @@ onEvent('item.tags', event => {
     event.add('forge:rods/greenstone', 'kubejs:greenstone_rod')
     event.add('forge:rods/osmium', 'kubejs:osmium_rod')
     event.add('forge:rods/aluminium', 'kubejs:aluminium_rod')
+    event.add('forge:rods/aluminum', 'kubejs:aluminium_rod')
 
 })

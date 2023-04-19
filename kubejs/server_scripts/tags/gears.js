@@ -21,5 +21,6 @@ onEvent('item.tags', event => {
     event.add('forge:gears/greenstone', 'kubejs:greenstone_gear')
     event.add('forge:gears/osmium', 'kubejs:osmium_gear')
     event.add('forge:gears/aluminium', 'kubejs:aluminium_gear')
+    event.add('forge:gears/aluminum', 'kubejs:aluminium_gear')
 
 })

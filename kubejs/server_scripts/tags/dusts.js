@@ -7,6 +7,7 @@ onEvent('item.tags', event => {
     event.add('forge:dusts/nickel', 'kubejs:nickel_dust')
     event.add('forge:dusts/silver', 'kubejs:silver_dust')
     event.add('forge:dusts/aluminium', 'kubejs:aluminium_dust')
+    event.add('forge:dusts/aluminum', 'kubejs:aluminium_dust')
     event.add('forge:dusts/apatite', 'kubejs:apatite_dust')
     event.add('forge:dusts/cinnabar', 'kubejs:cinnabar_dust')
     event.add('forge:dusts/cobalt', 'kubejs:cobalt_dust')
