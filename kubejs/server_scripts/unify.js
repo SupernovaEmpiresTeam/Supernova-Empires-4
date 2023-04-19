@@ -42,7 +42,8 @@ let tags = new Set([
     "forge:silicon",
     "se4:silicon",
     "appliedenergistics2:silicon",
-    "refinedstorage:silicon"
+    "refinedstorage:silicon",
+    "forge:batteries"
 ])
 
 // A list of lists of items to unify. Each list will be turned into a tag and added to the list of tags to unify.

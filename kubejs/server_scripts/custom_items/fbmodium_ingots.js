@@ -222,16 +222,16 @@ onEvent('recipes', event => {
                 "item": "extendedcrafting:ender_star"
               },
               {
-                "tag": "forge:ores/draconium"
+                "tag": "forge:ingots/draconium"
               },
               {
-                "tag": "forge:ores/draconium"
+                "tag": "forge:ingots/draconium"
               },
               {
-                "tag": "forge:ores/draconium"
+                "tag": "forge:ingots/draconium"
               },
               {
-                "tag": "forge:ores/draconium"
+                "tag": "forge:ingots/draconium"
               }
         ],
         result: {
