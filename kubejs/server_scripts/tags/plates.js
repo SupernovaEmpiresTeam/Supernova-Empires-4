@@ -3,6 +3,7 @@
 onEvent('item.tags', event => {
 
 	event.add('forge:plates/draconium', 'kubejs:draconium_plate')
+    event.add('forge:plates/draconium_awakened', 'kubejs:awakened_draconium_plate')
     event.add('forge:plates/copper', 'kubejs:copper_plate')
     event.add('forge:plates/bronze', 'kubejs:bronze_plate')
     event.add('forge:plates/steel', 'kubejs:steel_plate')
@@ -23,5 +24,6 @@ onEvent('item.tags', event => {
     event.add('forge:plates/light_bluestone', 'kubejs:light_bluestone_plate')
     event.add('forge:plates/greenstone', 'kubejs:greenstone_plate')
     event.add('forge:plates/osmium', 'kubejs:osmium_plate')
+    event.add('forge:plates/aluminium', 'kubejs:aluminium_plate')
 
 })

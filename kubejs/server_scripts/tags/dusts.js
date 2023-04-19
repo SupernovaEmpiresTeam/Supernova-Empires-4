@@ -3,6 +3,7 @@
 onEvent('item.tags', event => {
 
 	event.add('forge:dusts/draconium', 'kubejs:draconium_dust')
+    event.add('forge:dusts/draconium_awakened', 'kubejs:awakened_draconium_dust')
     event.add('forge:dusts/nickel', 'kubejs:nickel_dust')
     event.add('forge:dusts/silver', 'kubejs:silver_dust')
     event.add('forge:dusts/aluminium', 'kubejs:aluminium_dust')

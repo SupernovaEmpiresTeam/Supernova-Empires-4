@@ -10,6 +10,7 @@ onEvent('item.registry', event => {
     event.create('steel_ingot').displayName('Steel Ingot')
     event.create('dark_steel_ingot').displayName('Dark Steel Ingot')
     event.create('draconium_ingot').displayName('Draconium Ingot')
+    event.create('awakened_draconium_ingot').displayName('Awakened Draconium Ingot')
     event.create('copper_ingot').displayName('Copper Ingot')
     event.create('bronze_ingot').displayName('Bronze Ingot')
     event.create('tin_ingot').displayName('Tin Ingot')
@@ -20,6 +21,7 @@ onEvent('item.registry', event => {
     event.create('electrum_ingot').displayName('Electrum Ingot')
     event.create('uranium_ingot').displayName('Uranium Ingot')
     event.create('osmium_ingot').displayName('Osmium Ingot')
+    event.create('aluminium_ingot').displayName('Aluminium Ingot')
 
     // Ported from contenttweaker
 

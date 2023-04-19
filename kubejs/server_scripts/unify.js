@@ -43,7 +43,11 @@ let tags = new Set([
     "se4:silicon",
     "appliedenergistics2:silicon",
     "refinedstorage:silicon",
-    "forge:batteries"
+    "forge:batteries",
+    "forge:ingots/draconium",
+    "forge:ingots/draconium_awakened",
+    "forge:dusts/draconium",
+    "forge:dusts/draconium_awakened"
 ])
 
 // A list of lists of items to unify. Each list will be turned into a tag and added to the list of tags to unify.
@@ -68,7 +72,7 @@ let tagUnions = [
 let tagSplits = [
     // Makes it so that deepslate, netherrack, and stone ores are unified separately.
     [
-        "forge:ores/=copper,tin,aluminum,lead,silver,nickel,bronze,steel,platinum,uranium,iridium,zinc,osmium,sulfur,dark_steel,",
+        "forge:ores/=copper,tin,aluminum,lead,silver,nickel,bronze,steel,platinum,uranium,iridium,zinc,osmium,sulfur,dark_steel,draconium,draconium_awakened,",
         "forge:ores_in_ground/=deepslate,netherrack",
         "forge:ores_in_ground/stone"
     ]
@@ -81,7 +85,7 @@ if (Platform.isForge()) {
     // Easier way to add multiple tags on forge (all items here are inserted into the tags set)
     let tagGen = [
         "gold,diamond=gears,plates",
-        "copper,tin,aluminum,lead,silver,nickel,bronze,steel,platinum,uranium,iridium,zinc,dark_steel"
+        "copper,tin,aluminum,lead,silver,nickel,bronze,steel,platinum,uranium,iridium,zinc,dark_steel,draconium,draconium_awakened,constantan,apatite,cinnabar,cobalt,crimson_iron"
         + "=storage_blocks,ingots,nuggets,dusts,ores,gears,plates,raw_materials",
         "raw_copper,raw_tin,raw_aluminum,raw_lead,raw_silver,raw_nickel,raw_bronze,raw_steel,raw_platinum,raw_uranium,raw_iridium,raw_zinc=storage_blocks",
         "osmium=ingots,ores,plates,gears,rods",

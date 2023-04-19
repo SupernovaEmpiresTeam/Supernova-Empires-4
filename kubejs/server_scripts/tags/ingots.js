@@ -3,6 +3,7 @@
 onEvent('item.tags', event => {
 
 	event.add('forge:ingots/draconium', 'kubejs:draconium_ingot')
+    event.add('forge:ingots/draconium_awakened', 'kubejs:awakened_draconium_ingot')
     event.add('forge:ingots/copper', 'kubejs:copper_ingot')
     event.add('forge:ingots/bronze', 'kubejs:bronze_ingot')
     event.add('forge:ingots/steel', 'kubejs:steel_ingot')
@@ -23,5 +24,6 @@ onEvent('item.tags', event => {
     event.add('forge:ingots/light_bluestone', 'kubejs:light_bluestone_ingot')
     event.add('forge:ingots/greenstone', 'kubejs:greenstone_ingot')
     event.add('forge:ingots/osmium', 'kubejs:osmium_ingot')
+    event.add('forge:ingots/aluminium', 'kubejs:aluminium_ingot')
 
 })

@@ -3,6 +3,7 @@
 onEvent('item.tags', event => {
 
 	event.add('forge:rods/draconium', 'kubejs:draconium_rod')
+    event.add('forge:rods/draconium_awakened', 'kubejs:awakened_draconium_rod')
     event.add('forge:rods/copper', 'kubejs:copper_rod')
     event.add('forge:rods/bronze', 'kubejs:bronze_rod')
     event.add('forge:rods/steel', 'kubejs:steel_rod')
@@ -23,5 +24,6 @@ onEvent('item.tags', event => {
     event.add('forge:rods/light_bluestone', 'kubejs:light_bluestone_rod')
     event.add('forge:rods/greenstone', 'kubejs:greenstone_rod')
     event.add('forge:rods/osmium', 'kubejs:osmium_rod')
+    event.add('forge:rods/aluminium', 'kubejs:aluminium_rod')
 
 })

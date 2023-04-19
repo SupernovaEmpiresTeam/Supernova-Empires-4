@@ -41,6 +41,12 @@ onEvent('item.registry', event => {
     event.create('draconium_plate').displayName('Draconium Plate')
     event.create('draconium_rod').displayName('Draconium Rod')
 
+    // Awakened Draconium
+
+    event.create('awakened_draconium_gear').displayName('Awakened Draconium Gear')
+    event.create('awakened_draconium_plate').displayName('Awakened Draconium Plate')
+    event.create('awakened_draconium_rod').displayName('Awakened Draconium Rod')
+
     // Copper
 
     event.create('copper_gear').displayName('Copper Gear')
@@ -99,6 +105,12 @@ onEvent('item.registry', event => {
     event.create('osmium_gear').displayName('Osmium Gear')
     event.create('osmium_plate').displayName('Osmium Plate')
     event.create('osmium_rod').displayName('Osmium Rod')
+
+    // Aluminium
+
+    event.create('aluminium_gear').displayName('Aluminium Gear')
+    event.create('aluminium_plate').displayName('Aluminium Plate')
+    event.create('aluminium_rod').displayName('Aluminium Rod')
 
     // Fbmodium
 

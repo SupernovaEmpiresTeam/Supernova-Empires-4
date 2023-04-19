@@ -3,6 +3,7 @@
 onEvent('item.tags', event => {
 
 	event.add('forge:gears/draconium', 'kubejs:draconium_gear')
+    event.add('forge:gears/draconium_awakened', 'kubejs:awakened_draconium_gear')
     event.add('forge:gears/copper', 'kubejs:copper_gear')
     event.add('forge:gears/bronze', 'kubejs:bronze_gear')
     event.add('forge:gears/steel', 'kubejs:steel_gear')
@@ -19,5 +20,6 @@ onEvent('item.tags', event => {
     event.add('forge:gears/light_bluestone', 'kubejs:light_bluestone_gear')
     event.add('forge:gears/greenstone', 'kubejs:greenstone_gear')
     event.add('forge:gears/osmium', 'kubejs:osmium_gear')
+    event.add('forge:gears/aluminium', 'kubejs:aluminium_gear')
 
 })
