@@ -155,7 +155,7 @@ onEvent('recipes', event => {
 
     // Lazer
 
-    event.shaped('mekanism:lazer', [
+    event.shaped('mekanism:laser', [
         'CB ',
         'CAD',
         'CB '
@@ -192,7 +192,7 @@ onEvent('recipes', event => {
         A: 'minecraft:redstone',
         B: 'kubejs:energy_module',
         C: 'mekanism:steel_casing',
-        D: 'minecraft:iron'
+        D: '#forge:ingots/iron'
     })
 
     event.shaped('mekanism:advanced_energy_cube', [
@@ -233,7 +233,7 @@ onEvent('recipes', event => {
 
     // Wind Generator
 
-    event.shaped('mekanism:wind_generator', [
+    event.shaped('mekanismgenerators:wind_generator', [
         ' A ',
         'ACA',
         'BDB'

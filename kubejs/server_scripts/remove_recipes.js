@@ -59,7 +59,7 @@ onEvent('recipes', event => {
     event.remove({id: 'mekanism:induction/cell/elite'})
     event.remove({id: 'mekanism:induction/cell/ultimate'})
     event.remove({id: 'mekanism:chargepad'})
-    event.remove({id: 'mekanism:lazer'})
+    event.remove({id: 'mekanism:laser'})
     event.remove({id: 'mekanism:resistive_heater'})
     event.remove({id: 'mekanism:energy_cube/basic'})
     event.remove({id: 'mekanism:energy_cube/advanced'})
