@@ -13,4 +13,6 @@ onEvent('item.registry', event => {
     event.create('universal_upgrade_cover').displayName('Universal Upgrade Cover')
     event.create('universal_upgrade').displayName('Universal Upgrade')
     event.create('silicon').displayName('Silicon')
+    event.create('hammer').displayName('Hammer').maxDamage(2000)
+
 })

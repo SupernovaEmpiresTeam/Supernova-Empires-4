@@ -9,12 +9,10 @@ onEvent('recipes', event => {
     event.remove({id: 'minecraft:netherite_chestplate_smithing'})
     event.remove({id: 'minecraft:netherite_leggings_smithing'})
     event.remove({id: 'minecraft:netherite_boots_smithing'})
-
     event.remove({id: 'minecraft:diamond_helmet'})
     event.remove({id: 'minecraft:diamond_chestplate'})
     event.remove({id: 'minecraft:diamond_leggings'})
     event.remove({id: 'minecraft:diamond_boots'})
-
     event.remove({id: 'minecraft:diamond_pickaxe'})
     event.remove({id: 'minecraft:diamond_axe'})
     event.remove({id: 'minecraft:diamond_sword'})
@@ -66,6 +64,22 @@ onEvent('recipes', event => {
     event.remove({id: 'mekanism:energy_cube/elite'})
     event.remove({id: 'mekanism:energy_cube/ultimate'})
     event.remove({id: 'mekanismgenerators:generator/wind'})
+
+    // Thermal
+
+    event.remove({id: 'thermal:parts/iron_gear'})
+    event.remove({id: 'thermal:parts/gold_gear'})
+    event.remove({id: 'thermal:parts/netherite_gear'})
+    event.remove({id: 'thermal:parts/diamond_gear'})
+    event.remove({id: 'thermal:parts/lapis_gear'}) // no other gear yet
+    event.remove({id: 'thermal:parts/emerald_gear'}) // no other gear yet
+    event.remove({id: 'thermal:parts/quartz_gear'}) // no other gear yet
+    event.remove({id: 'thermal:parts/electrum_gear'})
+    event.remove({id: 'thermal:parts/invar_gear'}) // no other grear yet
+    event.remove({id: 'thermal:parts/signalum_gear'}) // no other gear yet
+    event.remove({id: 'thermal:parts/lumium_gear'}) // no other gear yet
+    event.remove({id: 'thermal:parts/enderium_gear'}) // no other gear yet
+    event.remove({id: 'thermal:parts/iron_gear'})
 
     // ProjectE
 

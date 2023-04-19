@@ -26,6 +26,7 @@ global["unifypriorities"] = [
     "futurepack",
     "tconstruct",
     "tinkers_reforged",
+    "immersiveengineering",
     "minecraft"
 ]
 
@@ -43,11 +44,7 @@ let tags = new Set([
     "se4:silicon",
     "appliedenergistics2:silicon",
     "refinedstorage:silicon",
-    "forge:batteries",
-    "forge:ingots/draconium",
-    "forge:ingots/draconium_awakened",
-    "forge:dusts/draconium",
-    "forge:dusts/draconium_awakened"
+    "forge:batteries"
 ])
 
 // A list of lists of items to unify. Each list will be turned into a tag and added to the list of tags to unify.
@@ -63,7 +60,7 @@ let tagUnions = [
     // The first string may optionally use one equal sign and commas like how tagSplits does.
     // ["forge:plates/iron", "#annoyingmod:iron_plates", "#anothermod:iron_plates", "thirdmod:iron_plate"]
     ["forge:ores_in_ground/deepslate", /thermal:deepslate_.*_ore/g],
-    ["forge:ores_in_ground/stone", /thermal:(?!deepslate).*_ore/g]
+    ["forge:ores_in_ground/stone", /thermal:(?!deepslate).*_ore/g],
 ]
 
 // Split tags apart to create new ones. If a tag does not exist, it will not be merged into or used.
