@@ -1,206 +1,183 @@
 onEvent('recipes', event => {
     
-    event.shaped('kubejs:draconium_gear', [
+    event.shaped('4x kubejs:draconium_rod', [
         ' A ',
-        'A A',
         ' A '
     ],
     {
         A: '#forge:ingots/draconium'
     })
 
-    event.shaped('kubejs:awakened_draconium_gear', [
+    event.shaped('4x kubejs:awakened_draconium_rod', [
         ' A ',
-        'A A',
         ' A '
     ],
     {
         A: '#forge:ingots/draconium_awakened'
     })
 
-    event.shaped('kubejs:osmium_gear', [
+    event.shaped('4x kubejs:osmium_rod', [
         ' A ',
-        'A A',
         ' A '
     ],
     {
         A: '#forge:ingots/osmium'
     })
 
-    event.shaped('kubejs:copper_gear', [
+    event.shaped('4x kubejs:copper_rod', [
         ' A ',
-        'A A',
         ' A '
     ],
     {
         A: '#forge:ingots/copper'
     })
 
-    event.shaped('kubejs:bronze_gear', [
+    event.shaped('4x kubejs:bronze_rod', [
         ' A ',
-        'A A',
         ' A '
     ],
     {
         A: '#forge:ingots/bronze'
     })
 
-    event.shaped('kubejs:aluminium_gear', [
+    event.shaped('4x kubejs:aluminium_rod', [
         ' A ',
-        'A A',
         ' A '
     ],
     {
         A: '#forge:ingots/aluminium'
     })
 
-    event.shaped('kubejs:steel_gear', [
+    event.shaped('4x kubejs:steel_rod', [
         ' A ',
-        'A A',
         ' A '
     ],
     {
         A: '#forge:ingots/steel'
     })
 
-    event.shaped('kubejs:tin_gear', [
+    event.shaped('4x kubejs:tin_rod', [
         ' A ',
-        'A A',
         ' A '
     ],
     {
         A: '#forge:ingots/tin'
     })
 
-    event.shaped('kubejs:nickel_gear', [
+    event.shaped('4x kubejs:nickel_rod', [
         ' A ',
-        'A A',
         ' A '
     ],
     {
         A: '#forge:ingots/nickel'
     })
 
-    event.shaped('kubejs:lead_gear', [
+    event.shaped('4x kubejs:lead_rod', [
         ' A ',
-        'A A',
         ' A '
     ],
     {
         A: '#forge:ingots/lead'
     })
 
-    event.shaped('kubejs:silver_gear', [
+    event.shaped('4x kubejs:silver_rod', [
         ' A ',
-        'A A',
         ' A '
     ],
     {
         A: '#forge:ingots/lead'
     })
 
-    event.shaped('kubejs:electrum_gear', [
+    event.shaped('4x kubejs:electrum_rod', [
         ' A ',
-        'A A',
         ' A '
     ],
     {
         A: '#forge:ingots/electrum'
     })
 
-    event.shaped('kubejs:uranium_gear', [
+    event.shaped('4x kubejs:uranium_rod', [
         ' A ',
-        'A A',
         ' A '
     ],
     {
         A: '#forge:ingots/uranium'
     })
 
-    event.shaped('kubejs:dark_steel_gear', [
+    event.shaped('4x kubejs:dark_steel_rod', [
         ' A ',
-        'A A',
         ' A '
     ],
     {
         A: '#forge:ingots/dark_steel'
     })
 
-    event.shaped('kubejs:constantan_gear', [
+    event.shaped('4x kubejs:constantan_rod', [
         ' A ',
-        'A A',
         ' A '
     ],
     {
         A: '#forge:ingots/constantan'
     })
 
-    event.shaped('kubejs:blue_iron_gear', [
+    event.shaped('4x kubejs:blue_iron_rod', [
         ' A ',
-        'A A',
         ' A '
     ],
     {
         A: '#forge:ingots/blue_iron'
     })
 
-    event.shaped('kubejs:fbmodium_gear', [
+    event.shaped('4x kubejs:fbmodium_rod', [
         ' A ',
-        'A A',
         ' A '
     ],
     {
         A: '#forge:ingots/fbmodium'
     })
 
-    event.shaped('kubejs:nether_infused_fbmodiumgear', [
+    event.shaped('4x kubejs:nether_infused_fbmodium_rod', [
         ' A ',
-        'A A',
         ' A '
     ],
     {
         A: '#forge:ingots/nether_infused_fbmodium'
     })
 
-    event.shaped('kubejs:end_infused_fbmodium_gear', [
+    event.shaped('4x kubejs:end_infused_fbmodium_rod', [
         ' A ',
-        'A A',
         ' A '
     ],
     {
         A: '#forge:ingots/end_infused_fbmodium'
     })
 
-    event.shaped('kubejs:ultimate_infused_fbmodium_gear', [
+    event.shaped('4x kubejs:ultimate_infused_fbmodium_rod', [
         ' A ',
-        'A A',
         ' A '
     ],
     {
         A: '#forge:ingots/ultimate_infused_fbmodium'
     })
 
-    event.shaped('kubejs:bluestone_gear', [
+    event.shaped('4x kubejs:bluestone_rod', [
         ' A ',
-        'A A',
         ' A '
     ],
     {
         A: '#forge:ingots/bluestone'
     })
 
-    event.shaped('kubejs:light_bluestone_gear', [
+    event.shaped('4x kubejs:light_bluestone_rod', [
         ' A ',
-        'A A',
         ' A '
     ],
     {
         A: '#forge:ingots/light_bluestone'
     })
 
-    event.shaped('kubejs:greenstone_gear', [
+    event.shaped('4x kubejs:greenstone_rod', [
         ' A ',
-        'A A',
         ' A '
     ],
     {
