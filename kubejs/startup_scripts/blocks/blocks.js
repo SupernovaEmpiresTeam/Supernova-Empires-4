@@ -8,4 +8,8 @@ onEvent('block.registry', event => {
     event.create('end_infused_fbmodium_block').material('glass').hardness(8.0).displayName('End Infused Fbmodium Block').requiresTool(true)
     event.create('ultimate_infused_fbmodium_block').material('glass').hardness(8.0).displayName('Ultimate Infused Fbmodium Block').requiresTool(true)
 
+    // Blocks for End-Game
+
+    event.create('divine_block').material('glass').hardness(80.0).displayName('Divine Block').requiresTool(true)
+
   })

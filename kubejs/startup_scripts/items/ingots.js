@@ -34,4 +34,8 @@ onEvent('item.registry', event => {
     event.create('light_bluestone_ingot').displayName('Light Bluestone Ingot')
     event.create('greenstone_ingot').displayName('Greenstone Ingot')
 
+    // Ingots for End-Game
+
+    event.create('divine_ingot').displayName('Divine Ingot')
+
 })
