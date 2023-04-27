@@ -8,7 +8,7 @@ onEvent('recipes', event => {
             "AAAAAAAAA",
             "AAAAAAAAA",
             "AAAAAAAAA",
-            "AAAAAAAAA",
+            "AAAABAAAA",
             "AAAAAAAAA",
             "AAAAAAAAA",
             "AAAAAAAAA",
