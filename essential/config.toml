@@ -1,0 +1,91 @@
+
+[general]
+
+	[general.online_status]
+		show_essential_indicator_on_tab = true
+		show_essential_indicator_on_nametags = true
+
+	[general.general]
+		streamer_mode = true
+		modcore_warning = true
+		prompt_when_visiting_trusted_hosts = false
+		essential_gui_scale = 5
+		timestamps_format = 0
+		gui_scale = true
+
+	[general.experience]
+		essential_full = true
+		enable_essential = true
+		show_menus = true
+		essential_menu_layout = 0
+		quick_action_bar = true
+
+[privacy]
+
+	[privacy.general]
+		display_current_server = false
+		friend_privacy_settings = 2
+
+[notifications]
+
+	[notifications.general]
+		online_friend_alert = true
+		disable_all_notifications = true
+		message_notifications = true
+		group_message_notifications = true
+		message_sound = true
+		update_notifications = true
+		host_world_ip_warning = false
+		screenshot_toast_duration = 1
+
+[quality_of_life]
+
+	[quality_of_life.zoom]
+		smooth_camera_when_zoomed = false
+		smooth_zoom_animation = false
+		toggle_to_zoom = false
+
+	[quality_of_life.general]
+		auto_refresh_session = true
+
+	[quality_of_life.discord_integration]
+		set_activity_status_on_discord = true
+		allow_ask_to_join = true
+		show_username_and_avatar = true
+		show_current_server = false
+
+	[quality_of_life.screenshots]
+		essential_screenshots = false
+		screenshot_sounds = false
+		vanilla_screenshot_message = false
+
+	[quality_of_life.accessibility]
+		enlarge_chat_metadata = false
+
+[cosmetics]
+
+	[cosmetics.general]
+		disable_cosmetics = false
+		show_my_cosmetics = true
+		hide_cosmetics_on_server_skins = false
+		cosmetic_armor_handling = 0
+		disable_cosmetics_in_inventory = false
+		show_my_armor = 0
+		"show_other_players'_armor" = 0
+
+[hidden]
+
+	[hidden.hidden]
+		emote_perspective = 1
+		screenshotbrowseritemsperrow = 3
+		wardrobesortoption = 1
+		wardrobesortoptionmigration = true
+		spspinnedgamerules = ""
+
+[emotes]
+
+	[emotes.general]
+		play_emotes_in_third_person_view = true
+		emote_preview_in_first_person = true
+		disable_emotes = false
+

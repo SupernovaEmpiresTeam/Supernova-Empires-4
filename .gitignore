@@ -20,3 +20,20 @@ usercache.json
 usernamecache.json
 schematics/
 options.txt
+backups/
+essential/avatar-cache/
+essential/cosmetic-cache/
+essential/image-cache/
+essential/libraries/
+essential/loader/
+essential/screenshot-cache/
+essential/screenshot-metadata/
+essential/Essential (forge_1.16.5).jar
+essential/expFeatures.json
+essential/onboarding.json
+essential/version.json
+ops.json
+crash-reports/
+local/ftbchunks/data/
+patchouli_data.json
+local/ftbutilities/backups.json
