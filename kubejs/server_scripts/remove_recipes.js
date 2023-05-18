@@ -64,6 +64,41 @@ onEvent('recipes', event => {
     event.remove({id: 'mekanism:energy_cube/elite'})
     event.remove({id: 'mekanism:energy_cube/ultimate'})
     event.remove({id: 'mekanismgenerators:generator/wind'})
+    event.remove({id: 'mekanism:enrichment_chamber'})
+    event.remove({id: 'mekanism:osmium_compressor'})
+    event.remove({id: 'mekanism:combiner'})
+    event.remove({id: 'mekanism:crusher'})
+    event.remove({id: 'mekanism:purification_chamber'})
+    event.remove({id: 'mekanism:energized_smelter'})
+    event.remove({id: 'mekanism:chemical_oxidizer'})
+
+    event.remove({id: 'mekanism:chemical_infuser'})
+    event.remove({id: 'mekanism:chemical_injection_chamber'})
+    event.remove({id: 'mekanism:electrolytic_separator'})
+    event.remove({id: 'mekanism:precision_sawmill'})
+    event.remove({id: 'mekanism:chemical_dissolution_chamber'})
+    event.remove({id: 'mekanism:chemical_crystallizer'})
+    event.remove({id: 'mekanismgenerators:generator/wind'})
+    event.remove({id: 'mekanismgenerators:generator/wind'})
+    event.remove({id: 'mekanismgenerators:generator/wind'})
+    event.remove({id: 'mekanismgenerators:generator/wind'})
+    event.remove({id: 'mekanismgenerators:generator/wind'})
+    event.remove({id: 'mekanismgenerators:generator/wind'})
+    event.remove({id: 'mekanismgenerators:generator/wind'})
+    event.remove({id: 'mekanismgenerators:generator/wind'})
+    event.remove({id: 'mekanismgenerators:generator/wind'})
+    event.remove({id: 'mekanismgenerators:generator/wind'})
+    event.remove({id: 'mekanismgenerators:generator/wind'})
+    event.remove({id: 'mekanismgenerators:generator/wind'})
+    event.remove({id: 'mekanismgenerators:generator/wind'})
+    event.remove({id: 'mekanismgenerators:generator/wind'})
+    event.remove({id: 'mekanismgenerators:generator/wind'})
+    event.remove({id: 'mekanismgenerators:generator/wind'})
+    event.remove({id: 'mekanismgenerators:generator/wind'})
+
+
+
+
 
     // Thermal
 
