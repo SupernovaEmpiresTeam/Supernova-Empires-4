@@ -54,6 +54,7 @@ onEvent('item.registry', event => {
     event.create('cobalt_dirty_dust').displayName('Cobalt Dirty Dust')
     event.create('crimson_iron_dirty_dust').displayName('Crimson Iron Dirty Dust')
     event.create('draconium_dirty_dust').displayName('Draconium Dirty Dust')
+    event.create('awaked_draconium_dirty_dust').displayName('Awakened Draconium Dirty Dust')
     event.create('nickel_dirty_dust').displayName('Nickel Dirty Dust')
     event.create('ruby_dirty_dust').displayName('Ruby Dirty Dust')
     event.create('sapphire_dirty_dust').displayName('Sapphire Dirty Dust')
