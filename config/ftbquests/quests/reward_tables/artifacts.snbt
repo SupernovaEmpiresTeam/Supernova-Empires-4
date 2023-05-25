@@ -8,11 +8,6 @@
 		tag: {
 			Damage: 0
 		}
-		ForgeCaps: {
-			"dungeons_libraries:built_in_enchantments": {
-				BuiltInEnchantments: [ ]
-			}
-		}
 	}
 	loot_size: 1
 	rewards: [

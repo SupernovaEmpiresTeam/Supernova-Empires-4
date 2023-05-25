@@ -119,7 +119,15 @@
 				{
 					id: "503DB3D4FAAE0B69"
 					type: "item"
-					item: "contenttweaker:universal_upgrade"
+					item: {
+						id: "kubejs:universal_upgrade"
+						Count: 1b
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": {
+								BuiltInEnchantments: [ ]
+							}
+						}
+					}
 				}
 				{
 					id: "4CBC5D86A24C8A38"
@@ -157,7 +165,15 @@
 				{
 					id: "43766ECB9F6C7C6F"
 					type: "item"
-					item: "contenttweaker:universal_upgrade"
+					item: {
+						id: "kubejs:universal_upgrade"
+						Count: 1b
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": {
+								BuiltInEnchantments: [ ]
+							}
+						}
+					}
 				}
 				{
 					id: "0B4D3EE08B54FA93"
@@ -195,7 +211,15 @@
 				{
 					id: "3CD15B022B92F960"
 					type: "item"
-					item: "contenttweaker:universal_upgrade"
+					item: {
+						id: "kubejs:universal_upgrade"
+						Count: 1b
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": {
+								BuiltInEnchantments: [ ]
+							}
+						}
+					}
 				}
 				{
 					id: "0ABD57B384A3D10E"
@@ -233,7 +257,15 @@
 				{
 					id: "7F729757118656D6"
 					type: "item"
-					item: "contenttweaker:universal_upgrade"
+					item: {
+						id: "kubejs:universal_upgrade"
+						Count: 1b
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": {
+								BuiltInEnchantments: [ ]
+							}
+						}
+					}
 				}
 				{
 					id: "146346F41A67F54C"

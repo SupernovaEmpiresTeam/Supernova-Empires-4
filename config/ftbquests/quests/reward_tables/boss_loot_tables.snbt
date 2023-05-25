@@ -12,16 +12,29 @@
 		{ item: "minecraft:nether_star" }
 		{
 			item: {
-				id: "gocurrency:currency"
+				id: "kubejs:one_dollar"
 				Count: 1b
-				tag: {
-					currency: 4b
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": {
+						BuiltInEnchantments: [ ]
+					}
 				}
 			}
 			weight: 7
 		}
 		{ title: "A lot of XP", item: "minecraft:experience_bottle", count: 64 }
-		{ item: "contenttweaker:universal_upgrade", weight: 7 }
+		{
+			item: {
+				id: "kubejs:universal_upgrade"
+				Count: 1b
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": {
+						BuiltInEnchantments: [ ]
+					}
+				}
+			}
+			weight: 7
+		}
 		{ item: "minecraft:spawner" }
 		{ item: "extendedcrafting:ultimate_singularity" }
 		{ item: "mekanism:creative_fluid_tank" }

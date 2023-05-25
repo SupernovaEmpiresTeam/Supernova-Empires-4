@@ -8,7 +8,39 @@
 		{ item: "minecraft:redstone" }
 		{ item: "wlrs:waterlogged_redstone_wire" }
 		{ item: "minecraft:glowstone_dust" }
-		{ item: "contenttweaker:bluestone" }
+		{
+			item: {
+				id: "kubejs:bluestone"
+				Count: 1b
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": {
+						BuiltInEnchantments: [ ]
+					}
+				}
+			}
+		}
 		{ item: "minecraft:gunpowder" }
+		{
+			item: {
+				id: "kubejs:light_bluestone"
+				Count: 1b
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": {
+						BuiltInEnchantments: [ ]
+					}
+				}
+			}
+		}
+		{
+			item: {
+				id: "kubejs:greenstone"
+				Count: 1b
+				ForgeCaps: {
+					"dungeons_libraries:built_in_enchantments": {
+						BuiltInEnchantments: [ ]
+					}
+				}
+			}
+		}
 	]
 }

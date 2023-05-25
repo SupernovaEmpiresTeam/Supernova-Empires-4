@@ -6,7 +6,7 @@
 	rewards: [
 		{
 			item: {
-				id: "contenttweaker:universal_upgrade"
+				id: "kubejs:universal_upgrade"
 				Count: 1b
 				ForgeCaps: {
 					"dungeons_libraries:built_in_enchantments": {
@@ -52,17 +52,6 @@
 		{
 			item: {
 				id: "silentgear:material_grader"
-				Count: 1b
-				ForgeCaps: {
-					"dungeons_libraries:built_in_enchantments": {
-						BuiltInEnchantments: [ ]
-					}
-				}
-			}
-		}
-		{
-			item: {
-				id: "contenttweaker:blockoftar"
 				Count: 1b
 				ForgeCaps: {
 					"dungeons_libraries:built_in_enchantments": {
@@ -134,17 +123,6 @@
 		{
 			item: {
 				id: "darkutils:redstone_randomizer"
-				Count: 1b
-				ForgeCaps: {
-					"dungeons_libraries:built_in_enchantments": {
-						BuiltInEnchantments: [ ]
-					}
-				}
-			}
-		}
-		{
-			item: {
-				id: "enderioalloys:item_alloy_ingot_dark_steel"
 				Count: 1b
 				ForgeCaps: {
 					"dungeons_libraries:built_in_enchantments": {
