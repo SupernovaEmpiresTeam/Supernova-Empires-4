@@ -1,4 +1,0 @@
-{
-    "conditions": { "not": "guiretextures:dark_mode" },
-    "fallbacks": "assets/inventoryhud/textures/gui/cb_mh_dark_mode.png"
-}
