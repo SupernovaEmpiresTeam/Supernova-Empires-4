@@ -55,4 +55,14 @@ onEvent('recipes', event => {
         R: 'minecraft:redstone' 
     })
 
+    event.shaped('kubejs:hammer', [
+        'S S',
+        ' P ',
+        ' P '
+    ],
+    {
+        S: '#forge:ingots/steel',
+        P: 'minecraft:stick'
+    })
+
   })

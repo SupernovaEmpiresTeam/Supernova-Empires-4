@@ -16,4 +16,9 @@ onEvent('recipes', event => {
         'kubejs:bluestone',
         '3x #forge:ingots/iron'
     ])
+
+    event.shapeless('kubejs:dark_steel_ingot',  [
+        '#forge:ingots/steel',
+        'minecraft:ink_sac'
+    ])
   })

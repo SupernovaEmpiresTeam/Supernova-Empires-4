@@ -1,0 +1,30 @@
+{
+	"type": "custommachinery:custom_machine",
+	"machine": "custommachinery:washing_machine",
+	"time": 20,
+	"requirements": [
+		{
+			"type": "custommachinery:item",
+			"item": "kubejs:amethyst_dirty_dust",
+			"amount": 1,
+			"mode": "input"
+		},
+		{
+			"type": "custommachinery:fluid",
+			"fluid": "minecraft:water",
+			"amount": 1000,
+			"mode": "input"
+		},
+		{
+			"type": "custommachinery:energy_per_tick",
+			"amount": 200000,
+			"mode": "input"
+		},
+		{
+			"type": "custommachinery:item",
+			"item": "kubejs:amethyst_dust",
+			"amount": 1,
+			"mode": "output"
+		}
+	]
+}

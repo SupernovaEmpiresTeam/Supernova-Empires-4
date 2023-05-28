@@ -1,0 +1,30 @@
+{
+	"type": "custommachinery:custom_machine",
+	"machine": "custommachinery:ore_processor",
+	"time": 5,
+	"requirements": [
+		{
+			"type": "custommachinery:item",
+			"item": "cavesandcliffs:amethyst_shard",
+			"amount": 1,
+			"mode": "input"
+		},
+		{
+			"type": "custommachinery:item",
+			"item": "minecraft:quartz",
+			"amount": 2,
+			"mode": "input"
+		},
+		{
+			"type": "custommachinery:energy_per_tick",
+			"amount": 20000,
+			"mode": "input"
+		},
+		{
+			"type": "custommachinery:item",
+			"item": "kubejs:amethyst_clump",
+			"amount": 6,
+			"mode": "output"
+		}
+	]
+}

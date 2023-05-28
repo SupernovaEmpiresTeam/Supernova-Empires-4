@@ -20,6 +20,7 @@ onEvent('block.registry', event => {
     event.create('nether_osmium_ore').material('metal').hardness(5.3).displayName('Nether Osmium Ore')
     event.create('nether_redstone_ore').material('metal').hardness(5.3).displayName('Nether Redstone Ore')
     event.create('nether_tin_ore').material('metal').hardness(5.3).displayName('Nether Tin Ore')
+    event.create('nether_uranium_ore').material('metal').hardness(5.3).displayName('Nether Uranium Ore')
 
     // End
 
@@ -33,5 +34,13 @@ onEvent('block.registry', event => {
     event.create('end_osmium_ore').material('metal').hardness(5.3).displayName('End Osmium Ore')
     event.create('end_redstone_ore').material('metal').hardness(5.3).displayName('End Redstone Ore')
     event.create('end_tin_ore').material('metal').hardness(5.3).displayName('End Tin Ore')
+    event.create('end_uranium_ore').material('metal').hardness(5.3).displayName('End Uranium Ore')
     
+    // Ported from other mods
+
+    event.create('cobalt_ore').material('metal').hardness(5.3).displayName('Cobalt Ore')
+    event.create('ruby_ore').material('metal').hardness(5.3).displayName('Ruby Ore')
+    event.create('sapphire_ore').material('metal').hardness(5.3).displayName('Sapphire Ore')
+    
+
 })

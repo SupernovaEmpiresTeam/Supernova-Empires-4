@@ -28,4 +28,8 @@ onEvent('item.tags', event => {
     event.add('forge:ingots/aluminum', 'kubejs:aluminium_ingot')
     event.add('forge:ingots/divine', 'kubejs:divine_ingot')
 
+    event.add('forge:gems/sapphire', 'kubejs:sapphire')
+    event.add('forge:gems/ruby', 'kubejs:ruby')
+    event.add('forge:ingots/cobalt', 'kubejs:cobalt_ingot')
+    
 })

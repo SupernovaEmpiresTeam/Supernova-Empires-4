@@ -1,0 +1,30 @@
+{
+	"type": "custommachinery:custom_machine",
+	"machine": "custommachinery:washing_machine",
+	"time": 20,
+	"requirements": [
+		{
+			"type": "custommachinery:item",
+			"item": "mekanism:dirty_dust_osmium",
+			"amount": 1,
+			"mode": "input"
+		},
+		{
+			"type": "custommachinery:fluid",
+			"fluid": "minecraft:water",
+			"amount": 1000,
+			"mode": "input"
+		},
+		{
+			"type": "custommachinery:energy_per_tick",
+			"amount": 200000,
+			"mode": "input"
+		},
+		{
+			"type": "custommachinery:item",
+			"item": "mekanism:dust_osmium",
+			"amount": 1,
+			"mode": "output"
+		}
+	]
+}

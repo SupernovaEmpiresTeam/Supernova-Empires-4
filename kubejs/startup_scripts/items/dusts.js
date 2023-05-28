@@ -11,6 +11,7 @@ onEvent('item.registry', event => {
     event.create('cobalt_shard').displayName('Cobalt Shard')
     event.create('crimson_iron_shard').displayName('Crimson Iron Shard')
     event.create('draconium_shard').displayName('Draconium Shard')
+    event.create('awakened_draconium_shard').displayName('Awakened Draconium Shard')
     event.create('nickel_shard').displayName('Nickel Shard')
     event.create('ruby_shard').displayName('Ruby Shard')
     event.create('sapphire_shard').displayName('Sapphire Shard')
@@ -32,6 +33,7 @@ onEvent('item.registry', event => {
     event.create('cobalt_clump').displayName('Cobalt Clump')
     event.create('crimson_iron_clump').displayName('Crimson Iron Clump')
     event.create('draconium_clump').displayName('Draconium Clump')
+    event.create('awakened_draconium_clump').displayName('Awakened Draconium Clump')
     event.create('nickel_clump').displayName('Nickel Clump')
     event.create('ruby_clump').displayName('Ruby Clump')
     event.create('sapphire_clump').displayName('Sapphire Clump')
@@ -54,7 +56,7 @@ onEvent('item.registry', event => {
     event.create('cobalt_dirty_dust').displayName('Cobalt Dirty Dust')
     event.create('crimson_iron_dirty_dust').displayName('Crimson Iron Dirty Dust')
     event.create('draconium_dirty_dust').displayName('Draconium Dirty Dust')
-    event.create('awaked_draconium_dirty_dust').displayName('Awakened Draconium Dirty Dust')
+    event.create('awakened_draconium_dirty_dust').displayName('Awakened Draconium Dirty Dust')
     event.create('nickel_dirty_dust').displayName('Nickel Dirty Dust')
     event.create('ruby_dirty_dust').displayName('Ruby Dirty Dust')
     event.create('sapphire_dirty_dust').displayName('Sapphire Dirty Dust')
@@ -82,6 +84,10 @@ onEvent('item.registry', event => {
     event.create('sapphire_dust').displayName('Sapphire Dust')
     event.create('silver_dust').displayName('Silver Dust')
     event.create('zinc_dust').displayName('Zinc Dust')
+
+    event.create('emerald_dust').displayName('Emerald Dust')
+    event.create('diamond_dust').displayName('Diamond Dust')
+    event.create('quartz_dust').displayName('Quartz Dust')
 
 })
 

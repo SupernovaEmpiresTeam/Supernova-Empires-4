@@ -34,6 +34,12 @@ onEvent('item.registry', event => {
     event.create('light_bluestone_ingot').displayName('Light Bluestone Ingot')
     event.create('greenstone_ingot').displayName('Greenstone Ingot')
 
+    // Ported from other mods
+
+    event.create('cobalt_ingot').displayName('Cobalt Ingot')
+    event.create('ruby').displayName('Ruby')
+    event.create('sapphire').displayName('Sapphire')
+    
     // Ingots for End-Game
 
     event.create('divine_ingot').displayName('Divine Ingot')

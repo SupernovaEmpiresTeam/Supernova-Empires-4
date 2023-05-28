@@ -92,5 +92,104 @@ onEvent('recipes', event => {
             nbt: "{machine:\"custommachinery:power_generator\"}"
         }
     })
+
+  // Ore Processor
+
+  event.custom({
+    type: 'extendedcrafting:shaped_table',
+    pattern: [
+        "AAAAAAA",
+        "AAAAAAA",
+        "AACBCAA",
+        "AACDCAA",
+        "AACBCAA",
+        "AAAAAAA",
+        "AAAAAAA"
+      ],
+    key: {
+        "A": {
+          "tag": "forge:ingots/steel"
+        },
+        "B": {
+          "item": "kubejs:energy_module"
+        },
+        "C": {
+            "item": "kubejs:machine_casing"
+        },
+        "D": {
+          "item": "kubejs:logic_board"
+        }
+    },
+    result: {
+        item: 'custommachinery:custom_machine_item',
+        nbt: "{machine:\"custommachinery:ore_processor\"}"
+    }
+})
+
+// Ore Crusher
+
+event.custom({
+  type: 'extendedcrafting:shaped_table',
+  pattern: [
+      "AAAAAAA",
+      "AAAAAAA",
+      "AACBCAA",
+      "AACDCAA",
+      "AACBCAA",
+      "AAAAAAA",
+      "AAAAAAA"
+    ],
+  key: {
+      "A": {
+        "tag": "forge:ingots/steel"
+      },
+      "B": {
+        "item": "kubejs:energy_module"
+      },
+      "C": {
+          "item": "minecraft:piston"
+      },
+      "D": {
+        "item": "kubejs:logic_board"
+      }
+  },
+  result: {
+      item: 'custommachinery:custom_machine_item',
+      nbt: "{machine:\"custommachinery:ore_crusher\"}"
+  }
+})
+
+// Washing Machine
     
+event.custom({
+  type: 'extendedcrafting:shaped_table',
+  pattern: [
+      "AAAAAAA",
+      "AAAAAAA",
+      "AACBCAA",
+      "AACDCAA",
+      "AACBCAA",
+      "AAAAAAA",
+      "AAAAAAA"
+    ],
+  key: {
+      "A": {
+        "tag": "forge:ingots/steel"
+      },
+      "B": {
+        "item": "kubejs:energy_module"
+      },
+      "C": {
+          "item": "minecraft:water_bucket"
+      },
+      "D": {
+        "item": "kubejs:logic_board"
+      }
+  },
+  result: {
+      item: 'custommachinery:custom_machine_item',
+      nbt: "{machine:\"custommachinery:washing_machine\"}"
+  }
+})
+
 })
