@@ -42,5 +42,17 @@ onEvent('recipes', event => {
 
     event.smelting('create:zinc_ingot', '#forge:dusts/zinc')
     event.blasting('create:zinc_ingot', '#forge:dusts/zinc')
+
+    event.smelting('kubejs:cobalt_ingot', '#forge:ores/cobalt')
+    event.blasting('kubejs:cobalt_ingot', '#forge:ores/cobalt')
+
+    event.smelting('kubejs:uranium_ingot', '#forge:ores/uranium')
+    event.blasting('kubejs:uranium_ingot', '#forge:ores/uranium')
+
+    event.smelting('kubejs:ruby', '#forge:ores/ruby')
+    event.blasting('kubejs:ruby', '#forge:ores/ruby')
+
+    event.smelting('kubejs:sapphire', '#forge:ores/sapphire')
+    event.blasting('kubejs:sapphire', '#forge:ores/sapphire')
     
   })

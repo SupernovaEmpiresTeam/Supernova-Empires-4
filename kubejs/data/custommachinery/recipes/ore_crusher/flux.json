@@ -5,7 +5,7 @@
 	"requirements": [
 		{
 			"type": "custommachinery:item",
-			"item": "kubejs:quartz_clump",
+			"item": "minecraft:redstone",
 			"amount": 1,
 			"mode": "input"
 		},
@@ -16,7 +16,7 @@
 		},
 		{
 			"type": "custommachinery:item",
-			"item": "kubejs:quartz_dirty_dust",
+			"item": "fluxnetworks:flux_dust",
 			"amount": 2,
 			"mode": "output"
 		}

@@ -65,4 +65,15 @@ onEvent('recipes', event => {
         P: 'minecraft:stick'
     })
 
+    event.shaped('kubejs:transmutation_stone', [
+        'RGR',
+        'GDG',
+        'RGR'
+    ],
+    {
+        R: 'minecraft:redstone',
+        G: 'minecraft:glowstone',
+        D: 'minecraft:diamond'
+    })
+
   })

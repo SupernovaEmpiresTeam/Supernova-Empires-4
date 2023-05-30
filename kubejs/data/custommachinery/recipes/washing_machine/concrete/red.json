@@ -1,17 +1,17 @@
 {
 	"type": "custommachinery:custom_machine",
-	"machine": "custommachinery:stone_generator",
+	"machine": "custommachinery:washing_machine",
 	"time": 20,
 	"requirements": [
 		{
-			"type": "custommachinery:fluid",
-			"fluid": "minecraft:water",
-			"amount": 1000,
+			"type": "custommachinery:item",
+			"item": "minecraft:red_concrete_powder",
+			"amount": 1,
 			"mode": "input"
 		},
 		{
 			"type": "custommachinery:fluid",
-			"fluid": "minecraft:lava",
+			"fluid": "minecraft:water",
 			"amount": 1000,
 			"mode": "input"
 		},
@@ -22,8 +22,8 @@
 		},
 		{
 			"type": "custommachinery:item",
-			"item": "minecraft:stone",
-			"amount": 12,
+			"item": "minecraft:red_concrete",
+			"amount": 1,
 			"mode": "output"
 		}
 	]

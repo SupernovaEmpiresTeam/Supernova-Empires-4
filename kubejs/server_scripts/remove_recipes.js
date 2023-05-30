@@ -101,6 +101,8 @@ onEvent('recipes', event => {
     // ProjectE
 
     event.remove({id: 'projecte:repair_talisman'})
+    event.remove({id: 'projecte:philosophers_stone'})
+    event.remove({id: 'projecte:philosophers_stone_alt'})
 
     // Applied Energistics 2
 

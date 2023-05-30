@@ -4,7 +4,7 @@ onEvent('recipes', event => {
 
     // Luminessence
 
-    event.shapeless('extendedcrafting:luminessence', ['minecraft:redstone', 'kubejs:bluestone', '2x minecraft:glowstone', 'minecraft:gunpowder', 'kubejs:light_bluestone', 'kubejs:greenstone'])
+    event.shapeless('extendedcrafting:luminessence', ['minecraft:redstone', 'kubejs:bluestone', '2x minecraft:glowstone_dust', 'minecraft:gunpowder', 'kubejs:light_bluestone', 'kubejs:greenstone'])
     
 
     // Manual Tables
