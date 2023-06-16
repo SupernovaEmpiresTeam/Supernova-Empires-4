@@ -1,1 +1,30 @@
-{"bookGuiScale":0,"clickedVisualize":false,"bookData":{}}
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "extendedcrafting:guide": {
+      "viewedEntries": [
+        "extendedcrafting:crafting/combination",
+        "extendedcrafting:crafting/tables",
+        "extendedcrafting:crafting/compression",
+        "extendedcrafting:crafting/ender_crafting",
+        "extendedcrafting:crafting/auto_tables",
+        "extendedcrafting:utilities/handheld_table",
+        "extendedcrafting:components/singularities",
+        "extendedcrafting:components/ultimate_singularity"
+      ],
+      "bookmarks": [],
+      "history": [
+        "extendedcrafting:components/ultimate_singularity",
+        "extendedcrafting:components/singularities",
+        "extendedcrafting:utilities/handheld_table",
+        "extendedcrafting:crafting/auto_tables",
+        "extendedcrafting:crafting/ender_crafting",
+        "extendedcrafting:crafting/compression",
+        "extendedcrafting:crafting/tables",
+        "extendedcrafting:crafting/combination"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}

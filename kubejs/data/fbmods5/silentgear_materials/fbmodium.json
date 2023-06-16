@@ -12,7 +12,7 @@
   },
   "crafting_items": {
     "main": {
-      "item": "contenttweaker:fbmodium_ingot"
+      "item": "kubejs:fbmodium_ingot"
     }
   },
   "name": {

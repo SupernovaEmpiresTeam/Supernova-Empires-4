@@ -10,7 +10,7 @@
   },
   "crafting_items": {
     "main": {
-      "item": "contenttweaker:bluestone"
+      "item": "kubejs:bluestone"
     }
   },
   "name": {

@@ -10,7 +10,7 @@
     },
     "crafting_items": {
       "main": {
-        "item": "contenttweaker:blue_iron"
+        "item": "kubejs:blue_iron_ingot"
       }
     },
     "name": {

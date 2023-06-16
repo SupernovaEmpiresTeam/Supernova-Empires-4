@@ -12,7 +12,7 @@
   },
   "crafting_items": {
     "main": {
-      "item": "contenttweaker:nether_infused_fbmodium_ingot"
+      "item": "kubejs:nether_infused_fbmodium_ingot"
     }
   },
   "name": {
