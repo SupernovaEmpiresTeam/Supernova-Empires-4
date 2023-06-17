@@ -14,18 +14,52 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_return_to_game_button%
+  identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_advancements_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_lan_button%
   orientation = mid-centered
-  x = -286
+  x = -70
   action = movebutton
-  y = -57
+  y = -14
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_lan_button%
+  width = 140
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_lan_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/button_imgs/btn-template-hover.png
+  backgroundnormal = config/fancymenu/button_imgs/btn-template.png
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_pausescreen_return_to_game_button%
-  width = 105
+  orientation = mid-centered
+  x = -70
+  action = movebutton
+  y = -58
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_return_to_game_button%
+  width = 140
   action = resizebutton
-  height = 114
+  height = 20
 }
 
 customization {
@@ -39,28 +73,23 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture
-  backgroundhovered = config/fancymenu/button_imgs/resume-game-hover.png
-  backgroundnormal = config/fancymenu/button_imgs/resume-game.png
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
-  action = hidebutton
+  backgroundhovered = config/fancymenu/button_imgs/btn-template-hover.png
+  backgroundnormal = config/fancymenu/button_imgs/btn-template.png
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_pausescreen_disconnect_button%
   orientation = mid-centered
-  x = 182
+  x = -70
   action = movebutton
-  y = -57
+  y = 32
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_pausescreen_disconnect_button%
-  width = 107
+  width = 140
   action = resizebutton
-  height = 115
+  height = 20
 }
 
 customization {
@@ -74,8 +103,8 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture
-  backgroundhovered = config/fancymenu/button_imgs/save-hover.png
-  backgroundnormal = config/fancymenu/button_imgs/save.png
+  backgroundhovered = config/fancymenu/button_imgs/btn-template-hover.png
+  backgroundnormal = config/fancymenu/button_imgs/btn-template.png
 }
 
 customization {
@@ -84,23 +113,18 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_advancements_button%
-  action = hidebutton
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
   orientation = mid-centered
-  x = -52
+  x = -70
   action = movebutton
-  y = -57
+  y = 8
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
-  width = 105
+  width = 140
   action = resizebutton
-  height = 115
+  height = 22
 }
 
 customization {
@@ -114,23 +138,23 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture
-  backgroundhovered = config/fancymenu/button_imgs/settings-hover.png
-  backgroundnormal = config/fancymenu/button_imgs/settings.png
+  backgroundhovered = config/fancymenu/button_imgs/btn-template-hover.png
+  backgroundnormal = config/fancymenu/button_imgs/btn-template.png
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_pausescreen_stats_button%
   orientation = mid-centered
-  x = -169
+  x = -70
   action = movebutton
-  y = -57
+  y = -36
 }
 
 customization {
   identifier = %id=button_compatibility_id:mc_pausescreen_stats_button%
-  width = 105
+  width = 140
   action = resizebutton
-  height = 114
+  height = 20
 }
 
 customization {
@@ -144,31 +168,7 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture
-  backgroundhovered = config/fancymenu/button_imgs/stats-hover.png
-  backgroundnormal = config/fancymenu/button_imgs/stats.png
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_lan_button%
-  orientation = mid-centered
-  x = 64
-  action = movebutton
-  y = -57
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_lan_button%
-  width = 106
-  action = resizebutton
-  height = 115
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_pausescreen_lan_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = config/fancymenu/button_imgs/lan-hover.png
-  backgroundnormal = config/fancymenu/button_imgs/lan.png
+  backgroundhovered = config/fancymenu/button_imgs/btn-template-hover.png
+  backgroundnormal = config/fancymenu/button_imgs/btn-template.png
 }
 
